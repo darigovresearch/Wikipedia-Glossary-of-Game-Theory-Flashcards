@@ -1,142 +1,142 @@
-<p><a href="/wiki/Game_theory" title="Game theory">Game theory</a> is the branch of <a href="/wiki/Mathematics" title="Mathematics">mathematics</a> in which <a href="/wiki/Game_(mathematics)" class="mw-redirect" title="Game (mathematics)">games</a> are studied: that is, models describing human behaviour. This is a glossary of some terms of the subject.
+<p><a href=""/wiki/Game_theory"" title=""Game theory"">Game theory</a> is the branch of <a href=""/wiki/Mathematics"" title=""Mathematics"">mathematics</a> in which <a href=""/wiki/Game_(mathematics)"" class=""mw-redirect"" title=""Game (mathematics)"">games</a> are studied: that is, models describing human behaviour. This is a glossary of some terms of the subject.
 </p>
 
-<dl><dt><a href="/wiki/Real_numbers" class="mw-redirect" title="Real numbers">Real numbers</a>&#160;</dt>
-<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \mathbb {R} }">
+<dl><dt><a href=""/wiki/Real_numbers"" class=""mw-redirect"" title=""Real numbers"">Real numbers</a>&#160;</dt>
+<dd><span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \mathbb {R} }"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <mrow class="MJX-TeXAtom-ORD">
-          <mi mathvariant="double-struck">R</mi>
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
+        <mrow class=""MJX-TeXAtom-ORD"">
+          <mi mathvariant=""double-struck"">R</mi>
         </mrow>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \mathbb {R} }</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle \mathbb {R} }</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/786849c765da7a84dbc3cce43e96aad58a5868dc" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.678ex; height:2.176ex;" alt="\mathbb {R} "/></span>.</dd>
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/786849c765da7a84dbc3cce43e96aad58a5868dc"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:1.678ex; height:2.176ex;"" alt=""\mathbb {R} ""/></span>.</dd>
 <dt>The set of <b>players</b>&#160;</dt>
-<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \mathrm {N} }">
+<dd><span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \mathrm {N} }"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <mrow class="MJX-TeXAtom-ORD">
-          <mi mathvariant="normal">N</mi>
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
+        <mrow class=""MJX-TeXAtom-ORD"">
+          <mi mathvariant=""normal"">N</mi>
         </mrow>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \mathrm {N} }</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle \mathrm {N} }</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a91302c621d1e18627cb635f8bd86852ab4b800b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.743ex; height:2.176ex;" alt="\mathrm {N} "/></span>.</dd>
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/a91302c621d1e18627cb635f8bd86852ab4b800b"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:1.743ex; height:2.176ex;"" alt=""\mathrm {N} ""/></span>.</dd>
 <dt>Strategy space&#160;</dt>
-<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \Sigma \ =\prod _{i\in \mathrm {N} }\Sigma \ ^{i}}">
+<dd><span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \Sigma \ =\prod _{i\in \mathrm {N} }\Sigma \ ^{i}}"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <mi mathvariant="normal">&#x03A3;<!-- Σ --></mi>
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
+        <mi mathvariant=""normal"">&#x03A3;<!-- Σ --></mi>
         <mtext>&#xA0;</mtext>
         <mo>=</mo>
         <munder>
           <mo>&#x220F;<!-- ∏ --></mo>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>i</mi>
             <mo>&#x2208;<!-- ∈ --></mo>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mi mathvariant="normal">N</mi>
+            <mrow class=""MJX-TeXAtom-ORD"">
+              <mi mathvariant=""normal"">N</mi>
             </mrow>
           </mrow>
         </munder>
-        <mi mathvariant="normal">&#x03A3;<!-- Σ --></mi>
+        <mi mathvariant=""normal"">&#x03A3;<!-- Σ --></mi>
         <msup>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>i</mi>
           </mrow>
         </msup>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \Sigma \ =\prod _{i\in \mathrm {N} }\Sigma \ ^{i}}</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle \Sigma \ =\prod _{i\in \mathrm {N} }\Sigma \ ^{i}}</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d09a811fbd81310abc6f9b70607f26614ef570ae" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.171ex; width:11.772ex; height:5.676ex;" alt="\Sigma \ =\prod _{i\in \mathrm {N} }\Sigma \ ^{i}"/></span>, where</dd>
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/d09a811fbd81310abc6f9b70607f26614ef570ae"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -3.171ex; width:11.772ex; height:5.676ex;"" alt=""\Sigma \ =\prod _{i\in \mathrm {N} }\Sigma \ ^{i}""/></span>, where</dd>
 <dt>Player i's strategy space&#160;</dt>
-<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \Sigma \ ^{i}}">
+<dd><span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \Sigma \ ^{i}}"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <mi mathvariant="normal">&#x03A3;<!-- Σ --></mi>
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
+        <mi mathvariant=""normal"">&#x03A3;<!-- Σ --></mi>
         <msup>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>i</mi>
           </mrow>
         </msup>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \Sigma \ ^{i}}</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle \Sigma \ ^{i}}</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fd448fa582bd3321fde15a3e9263a158bc126451" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:3.058ex; height:2.676ex;" alt="\Sigma \ ^{i}"/></span> is the space of all possible ways in which player <b>i</b> can play the game.</dd>
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/fd448fa582bd3321fde15a3e9263a158bc126451"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:3.058ex; height:2.676ex;"" alt=""\Sigma \ ^{i}""/></span> is the space of all possible ways in which player <b>i</b> can play the game.</dd>
 <dt>A strategy  for player <b>i</b>&#160;</dt>
 <dd></dd></dl>
-<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \sigma \ _{i}}">
+<p><span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \sigma \ _{i}}"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
         <mi>&#x03C3;<!-- σ --></mi>
         <msub>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>i</mi>
           </mrow>
         </msub>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \sigma \ _{i}}</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle \sigma \ _{i}}</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/17f7f0a65dff1f1419e95242b2d4c151f1fa566e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.71ex; height:2.009ex;" alt="\sigma \ _{i}"/></span>
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/17f7f0a65dff1f1419e95242b2d4c151f1fa566e"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:2.71ex; height:2.009ex;"" alt=""\sigma \ _{i}""/></span>
 is an element of
-<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \Sigma \ ^{i}}">
+<span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \Sigma \ ^{i}}"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <mi mathvariant="normal">&#x03A3;<!-- Σ --></mi>
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
+        <mi mathvariant=""normal"">&#x03A3;<!-- Σ --></mi>
         <msup>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>i</mi>
           </mrow>
         </msup>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \Sigma \ ^{i}}</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle \Sigma \ ^{i}}</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fd448fa582bd3321fde15a3e9263a158bc126451" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:3.058ex; height:2.676ex;" alt="\Sigma \ ^{i}"/></span>.
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/fd448fa582bd3321fde15a3e9263a158bc126451"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:3.058ex; height:2.676ex;"" alt=""\Sigma \ ^{i}""/></span>.
 </p>
 <dl><dt>Complements&#160;</dt>
 <dd></dd></dl>
-<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \sigma \ _{-i}}">
+<p><span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \sigma \ _{-i}}"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
         <mi>&#x03C3;<!-- σ --></mi>
         <msub>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mo>&#x2212;<!-- − --></mo>
             <mi>i</mi>
           </mrow>
         </msub>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \sigma \ _{-i}}</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle \sigma \ _{-i}}</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4899004a035a64cf530735615e4ad0399b27336f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:3.989ex; height:2.009ex;" alt="\sigma \ _{-i}"/></span>
-an element of <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \Sigma \ ^{-i}=\prod _{j\in \mathrm {N} ,j\neq i}\Sigma \ ^{j}}">
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/4899004a035a64cf530735615e4ad0399b27336f"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:3.989ex; height:2.009ex;"" alt=""\sigma \ _{-i}""/></span>
+an element of <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \Sigma \ ^{-i}=\prod _{j\in \mathrm {N} ,j\neq i}\Sigma \ ^{j}}"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <mi mathvariant="normal">&#x03A3;<!-- Σ --></mi>
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
+        <mi mathvariant=""normal"">&#x03A3;<!-- Σ --></mi>
         <msup>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mo>&#x2212;<!-- − --></mo>
             <mi>i</mi>
           </mrow>
@@ -144,11 +144,11 @@ an element of <span class="mwe-math-element"><span class="mwe-math-mathml-inline
         <mo>=</mo>
         <munder>
           <mo>&#x220F;<!-- ∏ --></mo>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>j</mi>
             <mo>&#x2208;<!-- ∈ --></mo>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mi mathvariant="normal">N</mi>
+            <mrow class=""MJX-TeXAtom-ORD"">
+              <mi mathvariant=""normal"">N</mi>
             </mrow>
             <mo>,</mo>
             <mi>j</mi>
@@ -156,307 +156,307 @@ an element of <span class="mwe-math-element"><span class="mwe-math-mathml-inline
             <mi>i</mi>
           </mrow>
         </munder>
-        <mi mathvariant="normal">&#x03A3;<!-- Σ --></mi>
+        <mi mathvariant=""normal"">&#x03A3;<!-- Σ --></mi>
         <msup>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>j</mi>
           </mrow>
         </msup>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \Sigma \ ^{-i}=\prod _{j\in \mathrm {N} ,j\neq i}\Sigma \ ^{j}}</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle \Sigma \ ^{-i}=\prod _{j\in \mathrm {N} ,j\neq i}\Sigma \ ^{j}}</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/41213a083c99098a1f1196ed3cd856bf7058d777" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.505ex; width:16.978ex; height:6.009ex;" alt="\Sigma \ ^{-i}=\prod _{j\in \mathrm {N} ,j\neq i}\Sigma \ ^{j}"/></span>, is a tuple of strategies for all players other than <b>i</b>.
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/41213a083c99098a1f1196ed3cd856bf7058d777"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -3.505ex; width:16.978ex; height:6.009ex;"" alt=""\Sigma \ ^{-i}=\prod _{j\in \mathrm {N} ,j\neq i}\Sigma \ ^{j}""/></span>, is a tuple of strategies for all players other than <b>i</b>.
 </p>
 <dl><dt>Outcome space&#160;</dt>
-<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \Gamma }">
+<dd><span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \Gamma }"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <mi mathvariant="normal">&#x0393;<!-- Γ --></mi>
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
+        <mi mathvariant=""normal"">&#x0393;<!-- Γ --></mi>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \Gamma }</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle \Gamma }</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4cfde86a3f7ec967af9955d0988592f0693d2b19" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.453ex; height:2.176ex;" alt="\Gamma "/></span> is in most textbooks identical to -</dd>
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/4cfde86a3f7ec967af9955d0988592f0693d2b19"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:1.453ex; height:2.176ex;"" alt=""\Gamma ""/></span> is in most textbooks identical to -</dd>
 <dt>Payoffs&#160;</dt>
-<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \mathbb {R} ^{\mathrm {N} }}">
+<dd><span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \mathbb {R} ^{\mathrm {N} }}"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
         <msup>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mi mathvariant="double-struck">R</mi>
+          <mrow class=""MJX-TeXAtom-ORD"">
+            <mi mathvariant=""double-struck"">R</mi>
           </mrow>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mrow class="MJX-TeXAtom-ORD">
-              <mi mathvariant="normal">N</mi>
+          <mrow class=""MJX-TeXAtom-ORD"">
+            <mrow class=""MJX-TeXAtom-ORD"">
+              <mi mathvariant=""normal"">N</mi>
             </mrow>
           </mrow>
         </msup>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \mathbb {R} ^{\mathrm {N} }}</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle \mathbb {R} ^{\mathrm {N} }}</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/76a72db7cd8b7a8df610d33602c1a0da2b1040c1" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:3.143ex; height:2.676ex;" alt="\mathbb {R} ^{\mathrm {N} }"/></span>, describing how much <a href="/wiki/Utility_function" class="mw-redirect" title="Utility function">gain</a> (money, pleasure, etc.) the players are allocated by the end of the game.</dd></dl>
-<h3><span class="mw-headline" id="Normal_form_game">Normal form game</span></h3>
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/76a72db7cd8b7a8df610d33602c1a0da2b1040c1"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:3.143ex; height:2.676ex;"" alt=""\mathbb {R} ^{\mathrm {N} }""/></span>, describing how much <a href=""/wiki/Utility_function"" class=""mw-redirect"" title=""Utility function"">gain</a> (money, pleasure, etc.) the players are allocated by the end of the game.</dd></dl>
+<h3><span class=""mw-headline"" id=""Normal_form_game"">Normal form game</span></h3>
 <p>A game in normal form is a function:
 </p>
-<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \pi \ :\prod _{i\in \mathrm {N} }\Sigma \ ^{i}\to \mathbb {R} ^{\mathrm {N} }}">
+<dl><dd><span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \pi \ :\prod _{i\in \mathrm {N} }\Sigma \ ^{i}\to \mathbb {R} ^{\mathrm {N} }}"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
         <mi>&#x03C0;<!-- π --></mi>
         <mtext>&#xA0;</mtext>
         <mo>:</mo>
         <munder>
           <mo>&#x220F;<!-- ∏ --></mo>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>i</mi>
             <mo>&#x2208;<!-- ∈ --></mo>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mi mathvariant="normal">N</mi>
+            <mrow class=""MJX-TeXAtom-ORD"">
+              <mi mathvariant=""normal"">N</mi>
             </mrow>
           </mrow>
         </munder>
-        <mi mathvariant="normal">&#x03A3;<!-- Σ --></mi>
+        <mi mathvariant=""normal"">&#x03A3;<!-- Σ --></mi>
         <msup>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>i</mi>
           </mrow>
         </msup>
-        <mo stretchy="false">&#x2192;<!-- → --></mo>
+        <mo stretchy=""false"">&#x2192;<!-- → --></mo>
         <msup>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mi mathvariant="double-struck">R</mi>
+          <mrow class=""MJX-TeXAtom-ORD"">
+            <mi mathvariant=""double-struck"">R</mi>
           </mrow>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mrow class="MJX-TeXAtom-ORD">
-              <mi mathvariant="normal">N</mi>
+          <mrow class=""MJX-TeXAtom-ORD"">
+            <mrow class=""MJX-TeXAtom-ORD"">
+              <mi mathvariant=""normal"">N</mi>
             </mrow>
           </mrow>
         </msup>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \pi \ :\prod _{i\in \mathrm {N} }\Sigma \ ^{i}\to \mathbb {R} ^{\mathrm {N} }}</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle \pi \ :\prod _{i\in \mathrm {N} }\Sigma \ ^{i}\to \mathbb {R} ^{\mathrm {N} }}</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d650d550baf2f82f71fba09a3e68719c86ce8da4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.171ex; width:17.022ex; height:5.676ex;" alt="\pi \ :\prod _{i\in \mathrm {N} }\Sigma \ ^{i}\to \mathbb {R} ^{\mathrm {N} }"/></span></dd></dl>
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/d650d550baf2f82f71fba09a3e68719c86ce8da4"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -3.171ex; width:17.022ex; height:5.676ex;"" alt=""\pi \ :\prod _{i\in \mathrm {N} }\Sigma \ ^{i}\to \mathbb {R} ^{\mathrm {N} }""/></span></dd></dl>
 <p>Given the <i>tuple</i> of <i>strategies</i> chosen by the players, one is given an allocation of <i>payments</i> (given as real numbers).
 </p><p>A further generalization can be achieved by splitting the <b>game</b> into a composition of two functions:
 </p>
-<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \pi \ :\prod _{i\in \mathrm {N} }\Sigma \ ^{i}\to \Gamma }">
+<dl><dd><span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \pi \ :\prod _{i\in \mathrm {N} }\Sigma \ ^{i}\to \Gamma }"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
         <mi>&#x03C0;<!-- π --></mi>
         <mtext>&#xA0;</mtext>
         <mo>:</mo>
         <munder>
           <mo>&#x220F;<!-- ∏ --></mo>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>i</mi>
             <mo>&#x2208;<!-- ∈ --></mo>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mi mathvariant="normal">N</mi>
+            <mrow class=""MJX-TeXAtom-ORD"">
+              <mi mathvariant=""normal"">N</mi>
             </mrow>
           </mrow>
         </munder>
-        <mi mathvariant="normal">&#x03A3;<!-- Σ --></mi>
+        <mi mathvariant=""normal"">&#x03A3;<!-- Σ --></mi>
         <msup>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>i</mi>
           </mrow>
         </msup>
-        <mo stretchy="false">&#x2192;<!-- → --></mo>
-        <mi mathvariant="normal">&#x0393;<!-- Γ --></mi>
+        <mo stretchy=""false"">&#x2192;<!-- → --></mo>
+        <mi mathvariant=""normal"">&#x0393;<!-- Γ --></mi>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \pi \ :\prod _{i\in \mathrm {N} }\Sigma \ ^{i}\to \Gamma }</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle \pi \ :\prod _{i\in \mathrm {N} }\Sigma \ ^{i}\to \Gamma }</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e647b496a13fb8ca159dc6115ffc6d3d854f9228" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.171ex; width:15.332ex; height:5.676ex;" alt="{\displaystyle \pi \ :\prod _{i\in \mathrm {N} }\Sigma \ ^{i}\to \Gamma }"/></span></dd></dl>
-<p>the <b>outcome function</b> of the game (some authors call this function "the game form"), and:
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/e647b496a13fb8ca159dc6115ffc6d3d854f9228"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -3.171ex; width:15.332ex; height:5.676ex;"" alt=""{\displaystyle \pi \ :\prod _{i\in \mathrm {N} }\Sigma \ ^{i}\to \Gamma }""/></span></dd></dl>
+<p>the <b>outcome function</b> of the game (some authors call this function ""the game form""), and:
 </p>
-<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \nu \ :\Gamma \ \to \mathbb {R} ^{\mathrm {N} }}">
+<dl><dd><span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \nu \ :\Gamma \ \to \mathbb {R} ^{\mathrm {N} }}"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
         <mi>&#x03BD;<!-- ν --></mi>
         <mtext>&#xA0;</mtext>
         <mo>:</mo>
-        <mi mathvariant="normal">&#x0393;<!-- Γ --></mi>
+        <mi mathvariant=""normal"">&#x0393;<!-- Γ --></mi>
         <mtext>&#xA0;</mtext>
-        <mo stretchy="false">&#x2192;<!-- → --></mo>
+        <mo stretchy=""false"">&#x2192;<!-- → --></mo>
         <msup>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mi mathvariant="double-struck">R</mi>
+          <mrow class=""MJX-TeXAtom-ORD"">
+            <mi mathvariant=""double-struck"">R</mi>
           </mrow>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mrow class="MJX-TeXAtom-ORD">
-              <mi mathvariant="normal">N</mi>
+          <mrow class=""MJX-TeXAtom-ORD"">
+            <mrow class=""MJX-TeXAtom-ORD"">
+              <mi mathvariant=""normal"">N</mi>
             </mrow>
           </mrow>
         </msup>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \nu \ :\Gamma \ \to \mathbb {R} ^{\mathrm {N} }}</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle \nu \ :\Gamma \ \to \mathbb {R} ^{\mathrm {N} }}</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/48634ff3388ecc6648306dcc34d8649a29a1e13b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:12.54ex; height:2.676ex;" alt="\nu \ :\Gamma \ \to \mathbb {R} ^{\mathrm {N} }"/></span></dd></dl>
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/48634ff3388ecc6648306dcc34d8649a29a1e13b"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:12.54ex; height:2.676ex;"" alt=""\nu \ :\Gamma \ \to \mathbb {R} ^{\mathrm {N} }""/></span></dd></dl>
 <p>the allocation of <b>payoffs</b> (or <b>preferences</b>) to players, for each outcome of the game.
 </p>
-<h3><span class="mw-headline" id="Extensive_form_game">Extensive form game</span></h3>
-<p>This is given by a <a href="/wiki/Tree_(graph_theory)" title="Tree (graph theory)">tree</a>, where at each <a href="/wiki/Vertex_(graph_theory)" title="Vertex (graph theory)">vertex</a> of the <i>tree</i> a different player has the choice of choosing an <a href="/wiki/Graph_theory" title="Graph theory">edge</a>. The <i>outcome</i> set of an extensive form game is usually the set of tree leaves.
+<h3><span class=""mw-headline"" id=""Extensive_form_game"">Extensive form game</span></h3>
+<p>This is given by a <a href=""/wiki/Tree_(graph_theory)"" title=""Tree (graph theory)"">tree</a>, where at each <a href=""/wiki/Vertex_(graph_theory)"" title=""Vertex (graph theory)"">vertex</a> of the <i>tree</i> a different player has the choice of choosing an <a href=""/wiki/Graph_theory"" title=""Graph theory"">edge</a>. The <i>outcome</i> set of an extensive form game is usually the set of tree leaves.
 </p>
-<h3><span class="mw-headline" id="Cooperative_game">Cooperative game</span></h3>
+<h3><span class=""mw-headline"" id=""Cooperative_game"">Cooperative game</span></h3>
 <p>A game in which players are allowed to form coalitions (and to enforce coalitionary discipline). A cooperative game is given by stating a <i>value</i> for every coalition:
 </p>
-<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \nu \ :2^{\mathbb {P} (N)}\to \mathbb {R} }">
+<dl><dd><span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \nu \ :2^{\mathbb {P} (N)}\to \mathbb {R} }"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
         <mi>&#x03BD;<!-- ν --></mi>
         <mtext>&#xA0;</mtext>
         <mo>:</mo>
         <msup>
           <mn>2</mn>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mrow class="MJX-TeXAtom-ORD">
-              <mi mathvariant="double-struck">P</mi>
+          <mrow class=""MJX-TeXAtom-ORD"">
+            <mrow class=""MJX-TeXAtom-ORD"">
+              <mi mathvariant=""double-struck"">P</mi>
             </mrow>
-            <mo stretchy="false">(</mo>
+            <mo stretchy=""false"">(</mo>
             <mi>N</mi>
-            <mo stretchy="false">)</mo>
+            <mo stretchy=""false"">)</mo>
           </mrow>
         </msup>
-        <mo stretchy="false">&#x2192;<!-- → --></mo>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mi mathvariant="double-struck">R</mi>
+        <mo stretchy=""false"">&#x2192;<!-- → --></mo>
+        <mrow class=""MJX-TeXAtom-ORD"">
+          <mi mathvariant=""double-struck"">R</mi>
         </mrow>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \nu \ :2^{\mathbb {P} (N)}\to \mathbb {R} }</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle \nu \ :2^{\mathbb {P} (N)}\to \mathbb {R} }</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/45b6fb7875df2bb6dd186ef9b755c26193e3ff42" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:14.18ex; height:2.843ex;" alt="\nu \ :2^{\mathbb {P} (N)}\to \mathbb {R} "/></span></dd></dl>
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/45b6fb7875df2bb6dd186ef9b755c26193e3ff42"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:14.18ex; height:2.843ex;"" alt=""\nu \ :2^{\mathbb {P} (N)}\to \mathbb {R} ""/></span></dd></dl>
 <p>It is always assumed that the empty coalition gains nil. <i>Solution concepts</i> for cooperative games
-usually assume that the players are forming the <i>grand coalition</i> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle N}">
+usually assume that the players are forming the <i>grand coalition</i> <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle N}"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
         <mi>N</mi>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle N}</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle N}</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5e3890c981ae85503089652feb48b191b57aae3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.064ex; height:2.176ex;" alt="N"/></span>, whose value <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \nu (N)}">
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/f5e3890c981ae85503089652feb48b191b57aae3"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:2.064ex; height:2.176ex;"" alt=""N""/></span>, whose value <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \nu (N)}"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
         <mi>&#x03BD;<!-- ν --></mi>
-        <mo stretchy="false">(</mo>
+        <mo stretchy=""false"">(</mo>
         <mi>N</mi>
-        <mo stretchy="false">)</mo>
+        <mo stretchy=""false"">)</mo>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \nu (N)}</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle \nu (N)}</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/26452dcd34904507713285dff47be9e0e5baeb94" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:5.105ex; height:2.843ex;" alt="\nu (N)"/></span> is then divided among the players to give an allocation.
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/26452dcd34904507713285dff47be9e0e5baeb94"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:5.105ex; height:2.843ex;"" alt=""\nu (N)""/></span> is then divided among the players to give an allocation.
 </p>
-<h3><span class="mw-headline" id="Simple_game">Simple game</span></h3>
-<p>A Simple game is a simplified form of a cooperative game, where the possible gain is assumed to be either '0' or '1'. A simple game is couple (<b>N</b>, <b>W</b>), where <b>W</b> is the list of "winning" <b>coalitions</b>, capable of gaining the loot ('1'), and <b>N</b> is the set of players.
+<h3><span class=""mw-headline"" id=""Simple_game"">Simple game</span></h3>
+<p>A Simple game is a simplified form of a cooperative game, where the possible gain is assumed to be either '0' or '1'. A simple game is couple (<b>N</b>, <b>W</b>), where <b>W</b> is the list of ""winning"" <b>coalitions</b>, capable of gaining the loot ('1'), and <b>N</b> is the set of players.
 </p>
 
 <dl><dt>Acceptable game&#160;</dt>
 <dd>is a <b>game form</b> such that for every possible <b>preference profiles</b>, the game has <b>pure nash equilibria</b>, all of which are <b>pareto efficient</b>.</dd></dl>
 <dl><dt>Allocation of goods&#160;</dt>
-<dd>is a function <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \nu \ :\Gamma \ \to \mathbb {R} ^{\mathrm {N} }}">
+<dd>is a function <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \nu \ :\Gamma \ \to \mathbb {R} ^{\mathrm {N} }}"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
         <mi>&#x03BD;<!-- ν --></mi>
         <mtext>&#xA0;</mtext>
         <mo>:</mo>
-        <mi mathvariant="normal">&#x0393;<!-- Γ --></mi>
+        <mi mathvariant=""normal"">&#x0393;<!-- Γ --></mi>
         <mtext>&#xA0;</mtext>
-        <mo stretchy="false">&#x2192;<!-- → --></mo>
+        <mo stretchy=""false"">&#x2192;<!-- → --></mo>
         <msup>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mi mathvariant="double-struck">R</mi>
+          <mrow class=""MJX-TeXAtom-ORD"">
+            <mi mathvariant=""double-struck"">R</mi>
           </mrow>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mrow class="MJX-TeXAtom-ORD">
-              <mi mathvariant="normal">N</mi>
+          <mrow class=""MJX-TeXAtom-ORD"">
+            <mrow class=""MJX-TeXAtom-ORD"">
+              <mi mathvariant=""normal"">N</mi>
             </mrow>
           </mrow>
         </msup>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \nu \ :\Gamma \ \to \mathbb {R} ^{\mathrm {N} }}</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle \nu \ :\Gamma \ \to \mathbb {R} ^{\mathrm {N} }}</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/48634ff3388ecc6648306dcc34d8649a29a1e13b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:12.54ex; height:2.676ex;" alt="\nu \ :\Gamma \ \to \mathbb {R} ^{\mathrm {N} }"/></span>. The allocation is a <b>cardinal</b> approach for determining the good (e.g. money) the players are granted under the different outcomes of the game.</dd></dl>
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/48634ff3388ecc6648306dcc34d8649a29a1e13b"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:12.54ex; height:2.676ex;"" alt=""\nu \ :\Gamma \ \to \mathbb {R} ^{\mathrm {N} }""/></span>. The allocation is a <b>cardinal</b> approach for determining the good (e.g. money) the players are granted under the different outcomes of the game.</dd></dl>
 <dl><dt>Best reply&#160;</dt>
-<dd>the best reply to a given complement  <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \sigma \ _{-i}}">
+<dd>the best reply to a given complement  <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \sigma \ _{-i}}"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
         <mi>&#x03C3;<!-- σ --></mi>
         <msub>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mo>&#x2212;<!-- − --></mo>
             <mi>i</mi>
           </mrow>
         </msub>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \sigma \ _{-i}}</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle \sigma \ _{-i}}</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4899004a035a64cf530735615e4ad0399b27336f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:3.989ex; height:2.009ex;" alt="\sigma \ _{-i}"/></span> is a strategy <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \tau \ _{i}}">
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/4899004a035a64cf530735615e4ad0399b27336f"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:3.989ex; height:2.009ex;"" alt=""\sigma \ _{-i}""/></span> is a strategy <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \tau \ _{i}}"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
         <mi>&#x03C4;<!-- τ --></mi>
         <msub>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>i</mi>
           </mrow>
         </msub>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \tau \ _{i}}</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle \tau \ _{i}}</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/926b05a4fb6afbf4197116627aa88929cc0781a3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.582ex; height:2.009ex;" alt="\tau \ _{i}"/></span> that maximizes player <b>i'</b>s payment. Formally, we want: <br /> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \forall \sigma \ _{i}\in \ \Sigma \ ^{i}\quad \quad \pi \ (\sigma \ _{i},\sigma \ _{-i})\leq \pi \ (\tau \ _{i},\sigma \ _{-i})}">
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/926b05a4fb6afbf4197116627aa88929cc0781a3"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:2.582ex; height:2.009ex;"" alt=""\tau \ _{i}""/></span> that maximizes player <b>i'</b>s payment. Formally, we want: <br /> <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \forall \sigma \ _{i}\in \ \Sigma \ ^{i}\quad \quad \pi \ (\sigma \ _{i},\sigma \ _{-i})\leq \pi \ (\tau \ _{i},\sigma \ _{-i})}"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <mi mathvariant="normal">&#x2200;<!-- ∀ --></mi>
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
+        <mi mathvariant=""normal"">&#x2200;<!-- ∀ --></mi>
         <mi>&#x03C3;<!-- σ --></mi>
         <msub>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>i</mi>
           </mrow>
         </msub>
         <mo>&#x2208;<!-- ∈ --></mo>
         <mtext>&#xA0;</mtext>
-        <mi mathvariant="normal">&#x03A3;<!-- Σ --></mi>
+        <mi mathvariant=""normal"">&#x03A3;<!-- Σ --></mi>
         <msup>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>i</mi>
           </mrow>
         </msup>
-        <mspace width="1em" />
-        <mspace width="1em" />
+        <mspace width=""1em"" />
+        <mspace width=""1em"" />
         <mi>&#x03C0;<!-- π --></mi>
         <mtext>&#xA0;</mtext>
-        <mo stretchy="false">(</mo>
+        <mo stretchy=""false"">(</mo>
         <mi>&#x03C3;<!-- σ --></mi>
         <msub>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>i</mi>
           </mrow>
         </msub>
@@ -464,20 +464,20 @@ usually assume that the players are forming the <i>grand coalition</i> <span cla
         <mi>&#x03C3;<!-- σ --></mi>
         <msub>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mo>&#x2212;<!-- − --></mo>
             <mi>i</mi>
           </mrow>
         </msub>
-        <mo stretchy="false">)</mo>
+        <mo stretchy=""false"">)</mo>
         <mo>&#x2264;<!-- ≤ --></mo>
         <mi>&#x03C0;<!-- π --></mi>
         <mtext>&#xA0;</mtext>
-        <mo stretchy="false">(</mo>
+        <mo stretchy=""false"">(</mo>
         <mi>&#x03C4;<!-- τ --></mi>
         <msub>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>i</mi>
           </mrow>
         </msub>
@@ -485,117 +485,117 @@ usually assume that the players are forming the <i>grand coalition</i> <span cla
         <mi>&#x03C3;<!-- σ --></mi>
         <msub>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mo>&#x2212;<!-- − --></mo>
             <mi>i</mi>
           </mrow>
         </msub>
-        <mo stretchy="false">)</mo>
+        <mo stretchy=""false"">)</mo>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \forall \sigma \ _{i}\in \ \Sigma \ ^{i}\quad \quad \pi \ (\sigma \ _{i},\sigma \ _{-i})\leq \pi \ (\tau \ _{i},\sigma \ _{-i})}</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle \forall \sigma \ _{i}\in \ \Sigma \ ^{i}\quad \quad \pi \ (\sigma \ _{i},\sigma \ _{-i})\leq \pi \ (\tau \ _{i},\sigma \ _{-i})}</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/76312d9439d1d5facc35b000f5900decfb826778" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:41.007ex; height:3.176ex;" alt="\forall \sigma \ _{i}\in \ \Sigma \ ^{i}\quad \quad \pi \ (\sigma \ _{i},\sigma \ _{-i})\leq \pi \ (\tau \ _{i},\sigma \ _{-i})"/></span>.</dd></dl>
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/76312d9439d1d5facc35b000f5900decfb826778"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:41.007ex; height:3.176ex;"" alt=""\forall \sigma \ _{i}\in \ \Sigma \ ^{i}\quad \quad \pi \ (\sigma \ _{i},\sigma \ _{-i})\leq \pi \ (\tau \ _{i},\sigma \ _{-i})""/></span>.</dd></dl>
 <dl><dt>Coalition&#160;</dt>
-<dd>is any subset of the set of players: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \mathrm {S} \subseteq \mathrm {N} }">
+<dd>is any subset of the set of players: <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \mathrm {S} \subseteq \mathrm {N} }"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <mrow class="MJX-TeXAtom-ORD">
-          <mi mathvariant="normal">S</mi>
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
+        <mrow class=""MJX-TeXAtom-ORD"">
+          <mi mathvariant=""normal"">S</mi>
         </mrow>
         <mo>&#x2286;<!-- ⊆ --></mo>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mi mathvariant="normal">N</mi>
+        <mrow class=""MJX-TeXAtom-ORD"">
+          <mi mathvariant=""normal"">N</mi>
         </mrow>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \mathrm {S} \subseteq \mathrm {N} }</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle \mathrm {S} \subseteq \mathrm {N} }</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a86dbee4100e7d0a377658b9c308a90b2f2fd9d3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.505ex; width:6.134ex; height:2.343ex;" alt="\mathrm {S} \subseteq \mathrm {N} "/></span>.</dd></dl>
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/a86dbee4100e7d0a377658b9c308a90b2f2fd9d3"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.505ex; width:6.134ex; height:2.343ex;"" alt=""\mathrm {S} \subseteq \mathrm {N} ""/></span>.</dd></dl>
 <dl><dt>Condorcet winner&#160;</dt>
 <dd>Given a <b>preference</b> <i>ν</i> on the <b>outcome space</b>, an outcome <b>a</b> is a condorcet winner if all non-dummy players prefer <b>a</b> to all other outcomes.</dd></dl>
-<dl><dt><a href="/wiki/Decidability_(logic)" title="Decidability (logic)">Decidability</a>&#160;</dt>
-<dd>In relation to game theory, refers to the question of the existence of an algorithm that can and will return an answer as to whether a game can be solved or not.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></dd></dl>
-<dl><dt><a href="/wiki/Determinacy" title="Determinacy">Determinacy</a>&#160;</dt>
+<dl><dt><a href=""/wiki/Decidability_(logic)"" title=""Decidability (logic)"">Decidability</a>&#160;</dt>
+<dd>In relation to game theory, refers to the question of the existence of an algorithm that can and will return an answer as to whether a game can be solved or not.<sup id=""cite_ref-1"" class=""reference""><a href=""#cite_note-1"">&#91;1&#93;</a></sup></dd></dl>
+<dl><dt><a href=""/wiki/Determinacy"" title=""Determinacy"">Determinacy</a>&#160;</dt>
 <dd>A subfield of set theory that examines the conditions under which one or the other player of a game has a winning strategy, and the consequences of the existence of such strategies. Games studied in set theory are Gale–Stewart games – two-player games of perfect information in which the players make an infinite sequence of moves and there are no draws.</dd></dl>
-<dl><dt><a href="/wiki/Strictly_determined_game" title="Strictly determined game">Determined game</a> (or <b>Strictly determined game</b>)&#160;</dt>
-<dd>In game theory, a strictly determined game is a two-player <a href="/wiki/Zero-sum" class="mw-redirect" title="Zero-sum">zero-sum</a> game that has at least one <a href="/wiki/Nash_equilibrium" title="Nash equilibrium">Nash equilibrium</a> with both players using <a href="/wiki/Pure_strategy" class="mw-redirect" title="Pure strategy">pure strategies</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></dd></dl>
+<dl><dt><a href=""/wiki/Strictly_determined_game"" title=""Strictly determined game"">Determined game</a> (or <b>Strictly determined game</b>)&#160;</dt>
+<dd>In game theory, a strictly determined game is a two-player <a href=""/wiki/Zero-sum"" class=""mw-redirect"" title=""Zero-sum"">zero-sum</a> game that has at least one <a href=""/wiki/Nash_equilibrium"" title=""Nash equilibrium"">Nash equilibrium</a> with both players using <a href=""/wiki/Pure_strategy"" class=""mw-redirect"" title=""Pure strategy"">pure strategies</a>.<sup id=""cite_ref-2"" class=""reference""><a href=""#cite_note-2"">&#91;2&#93;</a></sup><sup id=""cite_ref-3"" class=""reference""><a href=""#cite_note-3"">&#91;3&#93;</a></sup></dd></dl>
 <dl><dt>Dictator</dt>
-<dd>A player is a <i>strong dictator</i> if he can guarantee any outcome regardless of the other players. <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle m\in \mathbb {N} }">
+<dd>A player is a <i>strong dictator</i> if he can guarantee any outcome regardless of the other players. <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle m\in \mathbb {N} }"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
         <mi>m</mi>
         <mo>&#x2208;<!-- ∈ --></mo>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mi mathvariant="double-struck">N</mi>
+        <mrow class=""MJX-TeXAtom-ORD"">
+          <mi mathvariant=""double-struck"">N</mi>
         </mrow>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle m\in \mathbb {N} }</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle m\in \mathbb {N} }</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/42411e85d874a733209223302bbd8d5e3ad04cb0" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:6.559ex; height:2.176ex;" alt="m\in \mathbb {N} "/></span> is a <i>weak dictator</i> if he can guarantee any outcome, but his strategies for doing so might depend on the complement strategy vector. Naturally, every strong dictator is a weak dictator. Formally: <br /> <i>m</i> is a <i>Strong dictator</i> if: <br /> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \forall a\in \mathrm {A} ,\;\exists \sigma \ _{n}\in \Sigma \ ^{n}\;s.t.\;\forall \sigma \ _{-n}\in \Sigma \ ^{-n}:\;\Gamma \ (\sigma \ _{-n},\sigma \ _{n})=a}">
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/42411e85d874a733209223302bbd8d5e3ad04cb0"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:6.559ex; height:2.176ex;"" alt=""m\in \mathbb {N} ""/></span> is a <i>weak dictator</i> if he can guarantee any outcome, but his strategies for doing so might depend on the complement strategy vector. Naturally, every strong dictator is a weak dictator. Formally: <br /> <i>m</i> is a <i>Strong dictator</i> if: <br /> <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \forall a\in \mathrm {A} ,\;\exists \sigma \ _{n}\in \Sigma \ ^{n}\;s.t.\;\forall \sigma \ _{-n}\in \Sigma \ ^{-n}:\;\Gamma \ (\sigma \ _{-n},\sigma \ _{n})=a}"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <mi mathvariant="normal">&#x2200;<!-- ∀ --></mi>
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
+        <mi mathvariant=""normal"">&#x2200;<!-- ∀ --></mi>
         <mi>a</mi>
         <mo>&#x2208;<!-- ∈ --></mo>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mi mathvariant="normal">A</mi>
+        <mrow class=""MJX-TeXAtom-ORD"">
+          <mi mathvariant=""normal"">A</mi>
         </mrow>
         <mo>,</mo>
-        <mspace width="thickmathspace" />
-        <mi mathvariant="normal">&#x2203;<!-- ∃ --></mi>
+        <mspace width=""thickmathspace"" />
+        <mi mathvariant=""normal"">&#x2203;<!-- ∃ --></mi>
         <mi>&#x03C3;<!-- σ --></mi>
         <msub>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>n</mi>
           </mrow>
         </msub>
         <mo>&#x2208;<!-- ∈ --></mo>
-        <mi mathvariant="normal">&#x03A3;<!-- Σ --></mi>
+        <mi mathvariant=""normal"">&#x03A3;<!-- Σ --></mi>
         <msup>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>n</mi>
           </mrow>
         </msup>
-        <mspace width="thickmathspace" />
+        <mspace width=""thickmathspace"" />
         <mi>s</mi>
         <mo>.</mo>
         <mi>t</mi>
         <mo>.</mo>
-        <mspace width="thickmathspace" />
-        <mi mathvariant="normal">&#x2200;<!-- ∀ --></mi>
+        <mspace width=""thickmathspace"" />
+        <mi mathvariant=""normal"">&#x2200;<!-- ∀ --></mi>
         <mi>&#x03C3;<!-- σ --></mi>
         <msub>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mo>&#x2212;<!-- − --></mo>
             <mi>n</mi>
           </mrow>
         </msub>
         <mo>&#x2208;<!-- ∈ --></mo>
-        <mi mathvariant="normal">&#x03A3;<!-- Σ --></mi>
+        <mi mathvariant=""normal"">&#x03A3;<!-- Σ --></mi>
         <msup>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mo>&#x2212;<!-- − --></mo>
             <mi>n</mi>
           </mrow>
         </msup>
         <mo>:</mo>
-        <mspace width="thickmathspace" />
-        <mi mathvariant="normal">&#x0393;<!-- Γ --></mi>
+        <mspace width=""thickmathspace"" />
+        <mi mathvariant=""normal"">&#x0393;<!-- Γ --></mi>
         <mtext>&#xA0;</mtext>
-        <mo stretchy="false">(</mo>
+        <mo stretchy=""false"">(</mo>
         <mi>&#x03C3;<!-- σ --></mi>
         <msub>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mo>&#x2212;<!-- − --></mo>
             <mi>n</mi>
           </mrow>
@@ -604,77 +604,77 @@ usually assume that the players are forming the <i>grand coalition</i> <span cla
         <mi>&#x03C3;<!-- σ --></mi>
         <msub>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>n</mi>
           </mrow>
         </msub>
-        <mo stretchy="false">)</mo>
+        <mo stretchy=""false"">)</mo>
         <mo>=</mo>
         <mi>a</mi>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \forall a\in \mathrm {A} ,\;\exists \sigma \ _{n}\in \Sigma \ ^{n}\;s.t.\;\forall \sigma \ _{-n}\in \Sigma \ ^{-n}:\;\Gamma \ (\sigma \ _{-n},\sigma \ _{n})=a}</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle \forall a\in \mathrm {A} ,\;\exists \sigma \ _{n}\in \Sigma \ ^{n}\;s.t.\;\forall \sigma \ _{-n}\in \Sigma \ ^{-n}:\;\Gamma \ (\sigma \ _{-n},\sigma \ _{n})=a}</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/07b747d9b0922226f6b5573dad51309549e01599" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:57.432ex; height:3.009ex;" alt="\forall a\in \mathrm {A} ,\;\exists \sigma \ _{n}\in \Sigma \ ^{n}\;s.t.\;\forall \sigma \ _{-n}\in \Sigma \ ^{-n}:\;\Gamma \ (\sigma \ _{-n},\sigma \ _{n})=a"/></span> <br /> <i>m</i> is a <i>Weak dictator</i> if: <br /> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \forall a\in \mathrm {A} ,\;\forall \sigma \ _{-n}\in \Sigma \ ^{-n}\;\exists \sigma \ _{n}\in \Sigma \ ^{n}\;s.t.\;\Gamma \ (\sigma \ _{-n},\sigma \ _{n})=a}">
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/07b747d9b0922226f6b5573dad51309549e01599"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:57.432ex; height:3.009ex;"" alt=""\forall a\in \mathrm {A} ,\;\exists \sigma \ _{n}\in \Sigma \ ^{n}\;s.t.\;\forall \sigma \ _{-n}\in \Sigma \ ^{-n}:\;\Gamma \ (\sigma \ _{-n},\sigma \ _{n})=a""/></span> <br /> <i>m</i> is a <i>Weak dictator</i> if: <br /> <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \forall a\in \mathrm {A} ,\;\forall \sigma \ _{-n}\in \Sigma \ ^{-n}\;\exists \sigma \ _{n}\in \Sigma \ ^{n}\;s.t.\;\Gamma \ (\sigma \ _{-n},\sigma \ _{n})=a}"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <mi mathvariant="normal">&#x2200;<!-- ∀ --></mi>
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
+        <mi mathvariant=""normal"">&#x2200;<!-- ∀ --></mi>
         <mi>a</mi>
         <mo>&#x2208;<!-- ∈ --></mo>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mi mathvariant="normal">A</mi>
+        <mrow class=""MJX-TeXAtom-ORD"">
+          <mi mathvariant=""normal"">A</mi>
         </mrow>
         <mo>,</mo>
-        <mspace width="thickmathspace" />
-        <mi mathvariant="normal">&#x2200;<!-- ∀ --></mi>
+        <mspace width=""thickmathspace"" />
+        <mi mathvariant=""normal"">&#x2200;<!-- ∀ --></mi>
         <mi>&#x03C3;<!-- σ --></mi>
         <msub>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mo>&#x2212;<!-- − --></mo>
             <mi>n</mi>
           </mrow>
         </msub>
         <mo>&#x2208;<!-- ∈ --></mo>
-        <mi mathvariant="normal">&#x03A3;<!-- Σ --></mi>
+        <mi mathvariant=""normal"">&#x03A3;<!-- Σ --></mi>
         <msup>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mo>&#x2212;<!-- − --></mo>
             <mi>n</mi>
           </mrow>
         </msup>
-        <mspace width="thickmathspace" />
-        <mi mathvariant="normal">&#x2203;<!-- ∃ --></mi>
+        <mspace width=""thickmathspace"" />
+        <mi mathvariant=""normal"">&#x2203;<!-- ∃ --></mi>
         <mi>&#x03C3;<!-- σ --></mi>
         <msub>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>n</mi>
           </mrow>
         </msub>
         <mo>&#x2208;<!-- ∈ --></mo>
-        <mi mathvariant="normal">&#x03A3;<!-- Σ --></mi>
+        <mi mathvariant=""normal"">&#x03A3;<!-- Σ --></mi>
         <msup>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>n</mi>
           </mrow>
         </msup>
-        <mspace width="thickmathspace" />
+        <mspace width=""thickmathspace"" />
         <mi>s</mi>
         <mo>.</mo>
         <mi>t</mi>
         <mo>.</mo>
-        <mspace width="thickmathspace" />
-        <mi mathvariant="normal">&#x0393;<!-- Γ --></mi>
+        <mspace width=""thickmathspace"" />
+        <mi mathvariant=""normal"">&#x0393;<!-- Γ --></mi>
         <mtext>&#xA0;</mtext>
-        <mo stretchy="false">(</mo>
+        <mo stretchy=""false"">(</mo>
         <mi>&#x03C3;<!-- σ --></mi>
         <msub>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mo>&#x2212;<!-- − --></mo>
             <mi>n</mi>
           </mrow>
@@ -683,201 +683,201 @@ usually assume that the players are forming the <i>grand coalition</i> <span cla
         <mi>&#x03C3;<!-- σ --></mi>
         <msub>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>n</mi>
           </mrow>
         </msub>
-        <mo stretchy="false">)</mo>
+        <mo stretchy=""false"">)</mo>
         <mo>=</mo>
         <mi>a</mi>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \forall a\in \mathrm {A} ,\;\forall \sigma \ _{-n}\in \Sigma \ ^{-n}\;\exists \sigma \ _{n}\in \Sigma \ ^{n}\;s.t.\;\Gamma \ (\sigma \ _{-n},\sigma \ _{n})=a}</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle \forall a\in \mathrm {A} ,\;\forall \sigma \ _{-n}\in \Sigma \ ^{-n}\;\exists \sigma \ _{n}\in \Sigma \ ^{n}\;s.t.\;\Gamma \ (\sigma \ _{-n},\sigma \ _{n})=a}</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6d8b14e7e311b25f18af694bc8fbf4b5b22799a3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:55.495ex; height:3.009ex;" alt="\forall a\in \mathrm {A} ,\;\forall \sigma \ _{-n}\in \Sigma \ ^{-n}\;\exists \sigma \ _{n}\in \Sigma \ ^{n}\;s.t.\;\Gamma \ (\sigma \ _{-n},\sigma \ _{n})=a"/></span></dd>
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/6d8b14e7e311b25f18af694bc8fbf4b5b22799a3"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:55.495ex; height:3.009ex;"" alt=""\forall a\in \mathrm {A} ,\;\forall \sigma \ _{-n}\in \Sigma \ ^{-n}\;\exists \sigma \ _{n}\in \Sigma \ ^{n}\;s.t.\;\Gamma \ (\sigma \ _{-n},\sigma \ _{n})=a""/></span></dd>
 <dd>Another way to put it is:
-<dl><dd>a <i>weak dictator</i> is <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \alpha }">
+<dl><dd>a <i>weak dictator</i> is <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \alpha }"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
         <mi>&#x03B1;<!-- α --></mi>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \alpha }</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle \alpha }</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b79333175c8b3f0840bfb4ec41b8072c83ea88d3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.488ex; height:1.676ex;" alt="\alpha "/></span>-effective for every possible outcome.</dd>
-<dd>A <i>strong dictator</i> is <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \beta }">
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/b79333175c8b3f0840bfb4ec41b8072c83ea88d3"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:1.488ex; height:1.676ex;"" alt=""\alpha ""/></span>-effective for every possible outcome.</dd>
+<dd>A <i>strong dictator</i> is <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \beta }"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
         <mi>&#x03B2;<!-- β --></mi>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \beta }</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle \beta }</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7ed48a5e36207156fb792fa79d29925d2f7901e8" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:1.332ex; height:2.509ex;" alt="\beta "/></span>-effective for every possible outcome.</dd>
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/7ed48a5e36207156fb792fa79d29925d2f7901e8"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:1.332ex; height:2.509ex;"" alt=""\beta ""/></span>-effective for every possible outcome.</dd>
 <dd>A game can have no more than one <i>strong dictator</i>. Some games have multiple <i>weak dictators</i> (in <i>rock-paper-scissors</i> both players are <i>weak dictators</i> but none is a <i>strong dictator</i>).</dd></dl></dd>
 <dd>Also see <i>Effectiveness</i>. Antonym: <i>dummy</i>.</dd></dl>
 <dl><dt>Dominated outcome&#160;</dt>
-<dd>Given a <b>preference</b> <i>ν</i> on the <b>outcome space</b>, we say that an outcome <b>a</b> is dominated by outcome <b>b</b> (hence, <b>b</b> is the <i>dominant</i> strategy) if it is preferred by all players.  If, in addition, some player strictly prefers <b>b</b> over <b>a</b>, then we say that <b>a</b> is <b>strictly dominated</b>. Formally: <br /> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \forall j\in \mathrm {N} \;\quad \nu \ _{j}(a)\leq \ \nu \ _{j}(b)}">
+<dd>Given a <b>preference</b> <i>ν</i> on the <b>outcome space</b>, we say that an outcome <b>a</b> is dominated by outcome <b>b</b> (hence, <b>b</b> is the <i>dominant</i> strategy) if it is preferred by all players.  If, in addition, some player strictly prefers <b>b</b> over <b>a</b>, then we say that <b>a</b> is <b>strictly dominated</b>. Formally: <br /> <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \forall j\in \mathrm {N} \;\quad \nu \ _{j}(a)\leq \ \nu \ _{j}(b)}"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <mi mathvariant="normal">&#x2200;<!-- ∀ --></mi>
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
+        <mi mathvariant=""normal"">&#x2200;<!-- ∀ --></mi>
         <mi>j</mi>
         <mo>&#x2208;<!-- ∈ --></mo>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mi mathvariant="normal">N</mi>
+        <mrow class=""MJX-TeXAtom-ORD"">
+          <mi mathvariant=""normal"">N</mi>
         </mrow>
-        <mspace width="thickmathspace" />
-        <mspace width="1em" />
+        <mspace width=""thickmathspace"" />
+        <mspace width=""1em"" />
         <mi>&#x03BD;<!-- ν --></mi>
         <msub>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>j</mi>
           </mrow>
         </msub>
-        <mo stretchy="false">(</mo>
+        <mo stretchy=""false"">(</mo>
         <mi>a</mi>
-        <mo stretchy="false">)</mo>
+        <mo stretchy=""false"">)</mo>
         <mo>&#x2264;<!-- ≤ --></mo>
         <mtext>&#xA0;</mtext>
         <mi>&#x03BD;<!-- ν --></mi>
         <msub>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>j</mi>
           </mrow>
         </msub>
-        <mo stretchy="false">(</mo>
+        <mo stretchy=""false"">(</mo>
         <mi>b</mi>
-        <mo stretchy="false">)</mo>
+        <mo stretchy=""false"">)</mo>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \forall j\in \mathrm {N} \;\quad \nu \ _{j}(a)\leq \ \nu \ _{j}(b)}</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle \forall j\in \mathrm {N} \;\quad \nu \ _{j}(a)\leq \ \nu \ _{j}(b)}</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c8fa1c212f781220852caeb4907f48bd6395de30" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:24.772ex; height:3.009ex;" alt="\forall j\in \mathrm {N} \;\quad \nu \ _{j}(a)\leq \ \nu \ _{j}(b)"/></span> for domination, and <br /> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \exists i\in \mathrm {N} \;s.t.\;\nu \ _{i}(a)&lt;\nu \ _{i}(b)}">
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/c8fa1c212f781220852caeb4907f48bd6395de30"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -1.005ex; width:24.772ex; height:3.009ex;"" alt=""\forall j\in \mathrm {N} \;\quad \nu \ _{j}(a)\leq \ \nu \ _{j}(b)""/></span> for domination, and <br /> <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \exists i\in \mathrm {N} \;s.t.\;\nu \ _{i}(a)&lt;\nu \ _{i}(b)}"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <mi mathvariant="normal">&#x2203;<!-- ∃ --></mi>
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
+        <mi mathvariant=""normal"">&#x2203;<!-- ∃ --></mi>
         <mi>i</mi>
         <mo>&#x2208;<!-- ∈ --></mo>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mi mathvariant="normal">N</mi>
+        <mrow class=""MJX-TeXAtom-ORD"">
+          <mi mathvariant=""normal"">N</mi>
         </mrow>
-        <mspace width="thickmathspace" />
+        <mspace width=""thickmathspace"" />
         <mi>s</mi>
         <mo>.</mo>
         <mi>t</mi>
         <mo>.</mo>
-        <mspace width="thickmathspace" />
+        <mspace width=""thickmathspace"" />
         <mi>&#x03BD;<!-- ν --></mi>
         <msub>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>i</mi>
           </mrow>
         </msub>
-        <mo stretchy="false">(</mo>
+        <mo stretchy=""false"">(</mo>
         <mi>a</mi>
-        <mo stretchy="false">)</mo>
+        <mo stretchy=""false"">)</mo>
         <mo>&lt;</mo>
         <mi>&#x03BD;<!-- ν --></mi>
         <msub>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>i</mi>
           </mrow>
         </msub>
-        <mo stretchy="false">(</mo>
+        <mo stretchy=""false"">(</mo>
         <mi>b</mi>
-        <mo stretchy="false">)</mo>
+        <mo stretchy=""false"">)</mo>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \exists i\in \mathrm {N} \;s.t.\;\nu \ _{i}(a)&lt;\nu \ _{i}(b)}</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle \exists i\in \mathrm {N} \;s.t.\;\nu \ _{i}(a)&lt;\nu \ _{i}(b)}</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/57c234e53537b39cce522c2342a309c3c1a5c3ff" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:26.136ex; height:2.843ex;" alt="\exists i\in \mathrm {N} \;s.t.\;\nu \ _{i}(a)&lt;\nu \ _{i}(b)"/></span> for strict domination. <br /> An outcome <b>a</b> is (strictly) <b>dominated</b> if it is (strictly) <b>dominated</b> by some other <b>outcome</b>. <br /> An outcome <b>a</b> is dominated for a <b>coalition</b> <b>S</b> if all players in <b>S</b> prefer some other outcome to <b>a</b>. See also <b>Condorcet winner</b>.</dd></dl>
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/57c234e53537b39cce522c2342a309c3c1a5c3ff"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:26.136ex; height:2.843ex;"" alt=""\exists i\in \mathrm {N} \;s.t.\;\nu \ _{i}(a)&lt;\nu \ _{i}(b)""/></span> for strict domination. <br /> An outcome <b>a</b> is (strictly) <b>dominated</b> if it is (strictly) <b>dominated</b> by some other <b>outcome</b>. <br /> An outcome <b>a</b> is dominated for a <b>coalition</b> <b>S</b> if all players in <b>S</b> prefer some other outcome to <b>a</b>. See also <b>Condorcet winner</b>.</dd></dl>
 <dl><dt>Dominated strategy&#160;</dt>
-<dd>we say that strategy  is (strongly) dominated by strategy <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \tau \ _{i}}">
+<dd>we say that strategy  is (strongly) dominated by strategy <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \tau \ _{i}}"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
         <mi>&#x03C4;<!-- τ --></mi>
         <msub>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>i</mi>
           </mrow>
         </msub>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \tau \ _{i}}</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle \tau \ _{i}}</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/926b05a4fb6afbf4197116627aa88929cc0781a3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.582ex; height:2.009ex;" alt="\tau \ _{i}"/></span> if for any complement strategies tuple <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \sigma \ _{-i}}">
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/926b05a4fb6afbf4197116627aa88929cc0781a3"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:2.582ex; height:2.009ex;"" alt=""\tau \ _{i}""/></span> if for any complement strategies tuple <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \sigma \ _{-i}}"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
         <mi>&#x03C3;<!-- σ --></mi>
         <msub>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mo>&#x2212;<!-- − --></mo>
             <mi>i</mi>
           </mrow>
         </msub>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \sigma \ _{-i}}</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle \sigma \ _{-i}}</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4899004a035a64cf530735615e4ad0399b27336f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:3.989ex; height:2.009ex;" alt="\sigma \ _{-i}"/></span>, player <i>i</i> benefits by playing <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \tau \ _{i}}">
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/4899004a035a64cf530735615e4ad0399b27336f"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:3.989ex; height:2.009ex;"" alt=""\sigma \ _{-i}""/></span>, player <i>i</i> benefits by playing <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \tau \ _{i}}"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
         <mi>&#x03C4;<!-- τ --></mi>
         <msub>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>i</mi>
           </mrow>
         </msub>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \tau \ _{i}}</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle \tau \ _{i}}</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/926b05a4fb6afbf4197116627aa88929cc0781a3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.582ex; height:2.009ex;" alt="\tau \ _{i}"/></span>. Formally speaking: <br /> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \forall \sigma \ _{-i}\in \ \Sigma \ ^{-i}\quad \quad \pi \ (\sigma \ _{i},\sigma \ _{-i})\leq \pi \ (\tau \ _{i},\sigma \ _{-i})}">
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/926b05a4fb6afbf4197116627aa88929cc0781a3"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:2.582ex; height:2.009ex;"" alt=""\tau \ _{i}""/></span>. Formally speaking: <br /> <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \forall \sigma \ _{-i}\in \ \Sigma \ ^{-i}\quad \quad \pi \ (\sigma \ _{i},\sigma \ _{-i})\leq \pi \ (\tau \ _{i},\sigma \ _{-i})}"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <mi mathvariant="normal">&#x2200;<!-- ∀ --></mi>
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
+        <mi mathvariant=""normal"">&#x2200;<!-- ∀ --></mi>
         <mi>&#x03C3;<!-- σ --></mi>
         <msub>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mo>&#x2212;<!-- − --></mo>
             <mi>i</mi>
           </mrow>
         </msub>
         <mo>&#x2208;<!-- ∈ --></mo>
         <mtext>&#xA0;</mtext>
-        <mi mathvariant="normal">&#x03A3;<!-- Σ --></mi>
+        <mi mathvariant=""normal"">&#x03A3;<!-- Σ --></mi>
         <msup>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mo>&#x2212;<!-- − --></mo>
             <mi>i</mi>
           </mrow>
         </msup>
-        <mspace width="1em" />
-        <mspace width="1em" />
+        <mspace width=""1em"" />
+        <mspace width=""1em"" />
         <mi>&#x03C0;<!-- π --></mi>
         <mtext>&#xA0;</mtext>
-        <mo stretchy="false">(</mo>
+        <mo stretchy=""false"">(</mo>
         <mi>&#x03C3;<!-- σ --></mi>
         <msub>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>i</mi>
           </mrow>
         </msub>
@@ -885,20 +885,20 @@ usually assume that the players are forming the <i>grand coalition</i> <span cla
         <mi>&#x03C3;<!-- σ --></mi>
         <msub>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mo>&#x2212;<!-- − --></mo>
             <mi>i</mi>
           </mrow>
         </msub>
-        <mo stretchy="false">)</mo>
+        <mo stretchy=""false"">)</mo>
         <mo>&#x2264;<!-- ≤ --></mo>
         <mi>&#x03C0;<!-- π --></mi>
         <mtext>&#xA0;</mtext>
-        <mo stretchy="false">(</mo>
+        <mo stretchy=""false"">(</mo>
         <mi>&#x03C4;<!-- τ --></mi>
         <msub>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>i</mi>
           </mrow>
         </msub>
@@ -906,52 +906,52 @@ usually assume that the players are forming the <i>grand coalition</i> <span cla
         <mi>&#x03C3;<!-- σ --></mi>
         <msub>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mo>&#x2212;<!-- − --></mo>
             <mi>i</mi>
           </mrow>
         </msub>
-        <mo stretchy="false">)</mo>
+        <mo stretchy=""false"">)</mo>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \forall \sigma \ _{-i}\in \ \Sigma \ ^{-i}\quad \quad \pi \ (\sigma \ _{i},\sigma \ _{-i})\leq \pi \ (\tau \ _{i},\sigma \ _{-i})}</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle \forall \sigma \ _{-i}\in \ \Sigma \ ^{-i}\quad \quad \pi \ (\sigma \ _{i},\sigma \ _{-i})\leq \pi \ (\tau \ _{i},\sigma \ _{-i})}</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9c90f1b41a358222d50db2bbbef6b8545e12db88" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:43.564ex; height:3.176ex;" alt="\forall \sigma \ _{-i}\in \ \Sigma \ ^{-i}\quad \quad \pi \ (\sigma \ _{i},\sigma \ _{-i})\leq \pi \ (\tau \ _{i},\sigma \ _{-i})"/></span> and <br /> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \exists \sigma \ _{-i}\in \ \Sigma \ ^{-i}\quad s.t.\quad \pi \ (\sigma \ _{i},\sigma \ _{-i})&lt;\pi \ (\tau \ _{i},\sigma \ _{-i})}">
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/9c90f1b41a358222d50db2bbbef6b8545e12db88"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:43.564ex; height:3.176ex;"" alt=""\forall \sigma \ _{-i}\in \ \Sigma \ ^{-i}\quad \quad \pi \ (\sigma \ _{i},\sigma \ _{-i})\leq \pi \ (\tau \ _{i},\sigma \ _{-i})""/></span> and <br /> <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \exists \sigma \ _{-i}\in \ \Sigma \ ^{-i}\quad s.t.\quad \pi \ (\sigma \ _{i},\sigma \ _{-i})&lt;\pi \ (\tau \ _{i},\sigma \ _{-i})}"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <mi mathvariant="normal">&#x2203;<!-- ∃ --></mi>
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
+        <mi mathvariant=""normal"">&#x2203;<!-- ∃ --></mi>
         <mi>&#x03C3;<!-- σ --></mi>
         <msub>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mo>&#x2212;<!-- − --></mo>
             <mi>i</mi>
           </mrow>
         </msub>
         <mo>&#x2208;<!-- ∈ --></mo>
         <mtext>&#xA0;</mtext>
-        <mi mathvariant="normal">&#x03A3;<!-- Σ --></mi>
+        <mi mathvariant=""normal"">&#x03A3;<!-- Σ --></mi>
         <msup>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mo>&#x2212;<!-- − --></mo>
             <mi>i</mi>
           </mrow>
         </msup>
-        <mspace width="1em" />
+        <mspace width=""1em"" />
         <mi>s</mi>
         <mo>.</mo>
         <mi>t</mi>
         <mo>.</mo>
-        <mspace width="1em" />
+        <mspace width=""1em"" />
         <mi>&#x03C0;<!-- π --></mi>
         <mtext>&#xA0;</mtext>
-        <mo stretchy="false">(</mo>
+        <mo stretchy=""false"">(</mo>
         <mi>&#x03C3;<!-- σ --></mi>
         <msub>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>i</mi>
           </mrow>
         </msub>
@@ -959,20 +959,20 @@ usually assume that the players are forming the <i>grand coalition</i> <span cla
         <mi>&#x03C3;<!-- σ --></mi>
         <msub>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mo>&#x2212;<!-- − --></mo>
             <mi>i</mi>
           </mrow>
         </msub>
-        <mo stretchy="false">)</mo>
+        <mo stretchy=""false"">)</mo>
         <mo>&lt;</mo>
         <mi>&#x03C0;<!-- π --></mi>
         <mtext>&#xA0;</mtext>
-        <mo stretchy="false">(</mo>
+        <mo stretchy=""false"">(</mo>
         <mi>&#x03C4;<!-- τ --></mi>
         <msub>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>i</mi>
           </mrow>
         </msub>
@@ -980,17 +980,17 @@ usually assume that the players are forming the <i>grand coalition</i> <span cla
         <mi>&#x03C3;<!-- σ --></mi>
         <msub>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mo>&#x2212;<!-- − --></mo>
             <mi>i</mi>
           </mrow>
         </msub>
-        <mo stretchy="false">)</mo>
+        <mo stretchy=""false"">)</mo>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \exists \sigma \ _{-i}\in \ \Sigma \ ^{-i}\quad s.t.\quad \pi \ (\sigma \ _{i},\sigma \ _{-i})&lt;\pi \ (\tau \ _{i},\sigma \ _{-i})}</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle \exists \sigma \ _{-i}\in \ \Sigma \ ^{-i}\quad s.t.\quad \pi \ (\sigma \ _{i},\sigma \ _{-i})&lt;\pi \ (\tau \ _{i},\sigma \ _{-i})}</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/81684feff04ca509dbb33358ce61a3d4dd273320" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:47.562ex; height:3.176ex;" alt="\exists \sigma \ _{-i}\in \ \Sigma \ ^{-i}\quad s.t.\quad \pi \ (\sigma \ _{i},\sigma \ _{-i})&lt;\pi \ (\tau \ _{i},\sigma \ _{-i})"/></span>. <br /> A strategy <b>σ</b> is (strictly) <b>dominated</b> if it is (strictly) <b>dominated</b> by some other <b>strategy</b>.</dd></dl>
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/81684feff04ca509dbb33358ce61a3d4dd273320"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:47.562ex; height:3.176ex;"" alt=""\exists \sigma \ _{-i}\in \ \Sigma \ ^{-i}\quad s.t.\quad \pi \ (\sigma \ _{i},\sigma \ _{-i})&lt;\pi \ (\tau \ _{i},\sigma \ _{-i})""/></span>. <br /> A strategy <b>σ</b> is (strictly) <b>dominated</b> if it is (strictly) <b>dominated</b> by some other <b>strategy</b>.</dd></dl>
 <dl><dt>Dummy&#160;</dt>
 <dd>A player <b>i</b> is a dummy if he has no effect on the outcome of the game. I.e. if the outcome of the game is insensitive to player <b>i'</b>s strategy.</dd>
 <dd>Antonyms: <i>say</i>, <i>veto</i>, <i>dictator</i>.</dd></dl>
@@ -1002,168 +1002,168 @@ usually assume that the players are forming the <i>grand coalition</i> <span cla
 <dl><dt>Grand coalition&#160;</dt>
 <dd>refers to the coalition containing all players. In cooperative games it is often assumed that the grand coalition forms and the purpose of the game is to find stable imputations.</dd></dl>
 <dl><dt>Mixed strategy&#160;</dt>
-<dd>for player <b>i</b> is a probability distribution <b>P</b> on <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \Sigma \ ^{i}}">
+<dd>for player <b>i</b> is a probability distribution <b>P</b> on <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \Sigma \ ^{i}}"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <mi mathvariant="normal">&#x03A3;<!-- Σ --></mi>
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
+        <mi mathvariant=""normal"">&#x03A3;<!-- Σ --></mi>
         <msup>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>i</mi>
           </mrow>
         </msup>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \Sigma \ ^{i}}</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle \Sigma \ ^{i}}</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fd448fa582bd3321fde15a3e9263a158bc126451" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:3.058ex; height:2.676ex;" alt="\Sigma \ ^{i}"/></span>. It is understood that player <b>i</b> chooses a strategy randomly according to <b>P</b>.</dd></dl>
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/fd448fa582bd3321fde15a3e9263a158bc126451"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:3.058ex; height:2.676ex;"" alt=""\Sigma \ ^{i}""/></span>. It is understood that player <b>i</b> chooses a strategy randomly according to <b>P</b>.</dd></dl>
 <dl><dt>Mixed Nash Equilibrium&#160;</dt>
 <dd>Same as <b>Pure Nash Equilibrium</b>, defined on the space of <b>mixed strategies</b>. Every finite game has <b>Mixed Nash Equilibria</b>.</dd></dl>
 <dl><dt>Pareto efficiency&#160;</dt>
 <dd>An <b>outcome</b> <i>a</i> of <b>game form</b> <i>π</i> is (strongly) <b>pareto efficient</b> if it is <b>undominated</b> under all <b>preference profiles</b>.</dd></dl>
 <dl><dt>Preference profile&#160;</dt>
-<dd>is a function <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \nu \ :\Gamma \ \to \mathbb {R} ^{\mathrm {N} }}">
+<dd>is a function <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \nu \ :\Gamma \ \to \mathbb {R} ^{\mathrm {N} }}"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
         <mi>&#x03BD;<!-- ν --></mi>
         <mtext>&#xA0;</mtext>
         <mo>:</mo>
-        <mi mathvariant="normal">&#x0393;<!-- Γ --></mi>
+        <mi mathvariant=""normal"">&#x0393;<!-- Γ --></mi>
         <mtext>&#xA0;</mtext>
-        <mo stretchy="false">&#x2192;<!-- → --></mo>
+        <mo stretchy=""false"">&#x2192;<!-- → --></mo>
         <msup>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mi mathvariant="double-struck">R</mi>
+          <mrow class=""MJX-TeXAtom-ORD"">
+            <mi mathvariant=""double-struck"">R</mi>
           </mrow>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mrow class="MJX-TeXAtom-ORD">
-              <mi mathvariant="normal">N</mi>
+          <mrow class=""MJX-TeXAtom-ORD"">
+            <mrow class=""MJX-TeXAtom-ORD"">
+              <mi mathvariant=""normal"">N</mi>
             </mrow>
           </mrow>
         </msup>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \nu \ :\Gamma \ \to \mathbb {R} ^{\mathrm {N} }}</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle \nu \ :\Gamma \ \to \mathbb {R} ^{\mathrm {N} }}</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/48634ff3388ecc6648306dcc34d8649a29a1e13b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:12.54ex; height:2.676ex;" alt="\nu \ :\Gamma \ \to \mathbb {R} ^{\mathrm {N} }"/></span>. This is the <b>ordinal</b> approach at describing the outcome of the game. The preference describes how 'pleased' the players are with the possible outcomes of the game. See <b>allocation of goods</b>.</dd></dl>
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/48634ff3388ecc6648306dcc34d8649a29a1e13b"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:12.54ex; height:2.676ex;"" alt=""\nu \ :\Gamma \ \to \mathbb {R} ^{\mathrm {N} }""/></span>. This is the <b>ordinal</b> approach at describing the outcome of the game. The preference describes how 'pleased' the players are with the possible outcomes of the game. See <b>allocation of goods</b>.</dd></dl>
 <dl><dt>Pure Nash Equilibrium&#160;</dt>
-<dd>An element <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \sigma \ =(\sigma \ _{i})_{i\in \mathrm {N} }}">
+<dd>An element <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \sigma \ =(\sigma \ _{i})_{i\in \mathrm {N} }}"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
         <mi>&#x03C3;<!-- σ --></mi>
         <mtext>&#xA0;</mtext>
         <mo>=</mo>
-        <mo stretchy="false">(</mo>
+        <mo stretchy=""false"">(</mo>
         <mi>&#x03C3;<!-- σ --></mi>
         <msub>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>i</mi>
           </mrow>
         </msub>
         <msub>
-          <mo stretchy="false">)</mo>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy=""false"">)</mo>
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>i</mi>
             <mo>&#x2208;<!-- ∈ --></mo>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mi mathvariant="normal">N</mi>
+            <mrow class=""MJX-TeXAtom-ORD"">
+              <mi mathvariant=""normal"">N</mi>
             </mrow>
           </mrow>
         </msub>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \sigma \ =(\sigma \ _{i})_{i\in \mathrm {N} }}</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle \sigma \ =(\sigma \ _{i})_{i\in \mathrm {N} }}</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ed13702d101cff31aef5c8e6063b6a51b458bd6d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:12.657ex; height:2.843ex;" alt="\sigma \ =(\sigma \ _{i})_{i\in \mathrm {N} }"/></span> of the strategy space of a game is a <i>pure nash equilibrium point</i> if no player <b>i</b> can benefit by deviating from his strategy <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \sigma \ _{i}}">
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/ed13702d101cff31aef5c8e6063b6a51b458bd6d"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:12.657ex; height:2.843ex;"" alt=""\sigma \ =(\sigma \ _{i})_{i\in \mathrm {N} }""/></span> of the strategy space of a game is a <i>pure nash equilibrium point</i> if no player <b>i</b> can benefit by deviating from his strategy <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \sigma \ _{i}}"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
         <mi>&#x03C3;<!-- σ --></mi>
         <msub>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>i</mi>
           </mrow>
         </msub>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \sigma \ _{i}}</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle \sigma \ _{i}}</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/17f7f0a65dff1f1419e95242b2d4c151f1fa566e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.71ex; height:2.009ex;" alt="\sigma \ _{i}"/></span>, given that the other players are playing in <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \sigma }">
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/17f7f0a65dff1f1419e95242b2d4c151f1fa566e"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:2.71ex; height:2.009ex;"" alt=""\sigma \ _{i}""/></span>, given that the other players are playing in <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \sigma }"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
         <mi>&#x03C3;<!-- σ --></mi>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \sigma }</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle \sigma }</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/59f59b7c3e6fdb1d0365a494b81fb9a696138c36" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.33ex; height:1.676ex;" alt="\sigma "/></span>. Formally: <br /> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \forall i\in \mathrm {N} \quad \forall \tau \ _{i}\in \ \Sigma \ ^{i}\quad \pi \ (\tau \ ,\sigma \ _{-i})\leq \pi \ (\sigma \ )}">
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/59f59b7c3e6fdb1d0365a494b81fb9a696138c36"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:1.33ex; height:1.676ex;"" alt=""\sigma ""/></span>. Formally: <br /> <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \forall i\in \mathrm {N} \quad \forall \tau \ _{i}\in \ \Sigma \ ^{i}\quad \pi \ (\tau \ ,\sigma \ _{-i})\leq \pi \ (\sigma \ )}"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <mi mathvariant="normal">&#x2200;<!-- ∀ --></mi>
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
+        <mi mathvariant=""normal"">&#x2200;<!-- ∀ --></mi>
         <mi>i</mi>
         <mo>&#x2208;<!-- ∈ --></mo>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mi mathvariant="normal">N</mi>
+        <mrow class=""MJX-TeXAtom-ORD"">
+          <mi mathvariant=""normal"">N</mi>
         </mrow>
-        <mspace width="1em" />
-        <mi mathvariant="normal">&#x2200;<!-- ∀ --></mi>
+        <mspace width=""1em"" />
+        <mi mathvariant=""normal"">&#x2200;<!-- ∀ --></mi>
         <mi>&#x03C4;<!-- τ --></mi>
         <msub>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>i</mi>
           </mrow>
         </msub>
         <mo>&#x2208;<!-- ∈ --></mo>
         <mtext>&#xA0;</mtext>
-        <mi mathvariant="normal">&#x03A3;<!-- Σ --></mi>
+        <mi mathvariant=""normal"">&#x03A3;<!-- Σ --></mi>
         <msup>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>i</mi>
           </mrow>
         </msup>
-        <mspace width="1em" />
+        <mspace width=""1em"" />
         <mi>&#x03C0;<!-- π --></mi>
         <mtext>&#xA0;</mtext>
-        <mo stretchy="false">(</mo>
+        <mo stretchy=""false"">(</mo>
         <mi>&#x03C4;<!-- τ --></mi>
         <mtext>&#xA0;</mtext>
         <mo>,</mo>
         <mi>&#x03C3;<!-- σ --></mi>
         <msub>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mo>&#x2212;<!-- − --></mo>
             <mi>i</mi>
           </mrow>
         </msub>
-        <mo stretchy="false">)</mo>
+        <mo stretchy=""false"">)</mo>
         <mo>&#x2264;<!-- ≤ --></mo>
         <mi>&#x03C0;<!-- π --></mi>
         <mtext>&#xA0;</mtext>
-        <mo stretchy="false">(</mo>
+        <mo stretchy=""false"">(</mo>
         <mi>&#x03C3;<!-- σ --></mi>
         <mtext>&#xA0;</mtext>
-        <mo stretchy="false">)</mo>
+        <mo stretchy=""false"">)</mo>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \forall i\in \mathrm {N} \quad \forall \tau \ _{i}\in \ \Sigma \ ^{i}\quad \pi \ (\tau \ ,\sigma \ _{-i})\leq \pi \ (\sigma \ )}</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle \forall i\in \mathrm {N} \quad \forall \tau \ _{i}\in \ \Sigma \ ^{i}\quad \pi \ (\tau \ ,\sigma \ _{-i})\leq \pi \ (\sigma \ )}</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5c574d6a240a1afe601a816fbf8b90d2174abe25" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:40.936ex; height:3.176ex;" alt="\forall i\in \mathrm {N} \quad \forall \tau \ _{i}\in \ \Sigma \ ^{i}\quad \pi \ (\tau \ ,\sigma \ _{-i})\leq \pi \ (\sigma \ )"/></span>. <br /> No equilibrium point is dominated.</dd></dl>
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/5c574d6a240a1afe601a816fbf8b90d2174abe25"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:40.936ex; height:3.176ex;"" alt=""\forall i\in \mathrm {N} \quad \forall \tau \ _{i}\in \ \Sigma \ ^{i}\quad \pi \ (\tau \ ,\sigma \ _{-i})\leq \pi \ (\sigma \ )""/></span>. <br /> No equilibrium point is dominated.</dd></dl>
 <dl><dt>Say&#160;</dt>
 <dd>A player <b>i</b> has a <b>Say</b> if he is not a <i>Dummy</i>, i.e. if there is some tuple of complement strategies s.t. π (σ_i) is not a constant function.</dd>
 <dd>Antonym: <i>Dummy</i>.</dd></dl>
-<dl><dt><a href="/wiki/Shannon_number" title="Shannon number">Shannon number</a>&#160;</dt>
-<dd>A conservative lower bound of the <a href="/wiki/Game_complexity" title="Game complexity">game-tree complexity</a> of <a href="/wiki/Chess" title="Chess">chess</a> (10<sup>120</sup>).</dd></dl>
-<dl><dt><a href="/wiki/Solved_game" title="Solved game">Solved game</a>&#160;</dt>
+<dl><dt><a href=""/wiki/Shannon_number"" title=""Shannon number"">Shannon number</a>&#160;</dt>
+<dd>A conservative lower bound of the <a href=""/wiki/Game_complexity"" title=""Game complexity"">game-tree complexity</a> of <a href=""/wiki/Chess"" title=""Chess"">chess</a> (10<sup>120</sup>).</dd></dl>
+<dl><dt><a href=""/wiki/Solved_game"" title=""Solved game"">Solved game</a>&#160;</dt>
 <dd>A game whose outcome (win, lose or draw) can be correctly predicted assuming perfect play from all players.</dd></dl>
 <dl><dt>Value&#160;</dt>
 <dd>A <b>value</b> of a game is a rationally expected <b>outcome</b>. There are more than a few definitions of <b>value</b>, describing different methods of obtaining a solution to the game.</dd></dl>
@@ -1172,38 +1172,38 @@ usually assume that the players are forming the <i>grand coalition</i> <span cla
 <dd>Antonym: <i>Dummy</i>.</dd></dl>
 <dl><dt>Weakly acceptable game&#160;</dt>
 <dd>is a game that has <b>pure nash equilibria</b> some of which are <b>pareto efficient</b>.</dd></dl>
-<dl><dt><a href="/wiki/Zero_sum" class="mw-redirect" title="Zero sum">Zero sum</a> game&#160;</dt>
-<dd>is a game in which the allocation is constant over different <b>outcomes</b>. Formally: <br /> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \forall \gamma \ \in \Gamma \ \sum _{i\in \mathrm {N} }\nu \ _{i}(\gamma \ )=const.}">
+<dl><dt><a href=""/wiki/Zero_sum"" class=""mw-redirect"" title=""Zero sum"">Zero sum</a> game&#160;</dt>
+<dd>is a game in which the allocation is constant over different <b>outcomes</b>. Formally: <br /> <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \forall \gamma \ \in \Gamma \ \sum _{i\in \mathrm {N} }\nu \ _{i}(\gamma \ )=const.}"">
   <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <mi mathvariant="normal">&#x2200;<!-- ∀ --></mi>
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
+        <mi mathvariant=""normal"">&#x2200;<!-- ∀ --></mi>
         <mi>&#x03B3;<!-- γ --></mi>
         <mtext>&#xA0;</mtext>
         <mo>&#x2208;<!-- ∈ --></mo>
-        <mi mathvariant="normal">&#x0393;<!-- Γ --></mi>
+        <mi mathvariant=""normal"">&#x0393;<!-- Γ --></mi>
         <mtext>&#xA0;</mtext>
         <munder>
           <mo>&#x2211;<!-- ∑ --></mo>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>i</mi>
             <mo>&#x2208;<!-- ∈ --></mo>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mi mathvariant="normal">N</mi>
+            <mrow class=""MJX-TeXAtom-ORD"">
+              <mi mathvariant=""normal"">N</mi>
             </mrow>
           </mrow>
         </munder>
         <mi>&#x03BD;<!-- ν --></mi>
         <msub>
           <mtext>&#xA0;</mtext>
-          <mrow class="MJX-TeXAtom-ORD">
+          <mrow class=""MJX-TeXAtom-ORD"">
             <mi>i</mi>
           </mrow>
         </msub>
-        <mo stretchy="false">(</mo>
+        <mo stretchy=""false"">(</mo>
         <mi>&#x03B3;<!-- γ --></mi>
         <mtext>&#xA0;</mtext>
-        <mo stretchy="false">)</mo>
+        <mo stretchy=""false"">)</mo>
         <mo>=</mo>
         <mi>c</mi>
         <mi>o</mi>
@@ -1213,6 +1213,6 @@ usually assume that the players are forming the <i>grand coalition</i> <span cla
         <mo>.</mo>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \forall \gamma \ \in \Gamma \ \sum _{i\in \mathrm {N} }\nu \ _{i}(\gamma \ )=const.}</annotation>
+    <annotation encoding=""application/x-tex"">{\displaystyle \forall \gamma \ \in \Gamma \ \sum _{i\in \mathrm {N} }\nu \ _{i}(\gamma \ )=const.}</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b47d6028f1da74483e23e28f2a30cee70b31c5be" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.171ex; width:27.608ex; height:5.676ex;" alt="\forall \gamma \ \in \Gamma \ \sum _{i\in \mathrm {N} }\nu \ _{i}(\gamma \ )=const."/></span> <br /> w.l.g. we can assume that constant to be zero. In a zero-sum game, one player's gain is another player's loss. Most classical board games (e.g. <a href="/wiki/Chess" title="Chess">chess</a>, <a href="/wiki/Checkers" class="mw-redirect" title="Checkers">checkers</a>) are <b>zero sum</b>.</dd></dl>
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/b47d6028f1da74483e23e28f2a30cee70b31c5be"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -3.171ex; width:27.608ex; height:5.676ex;"" alt=""\forall \gamma \ \in \Gamma \ \sum _{i\in \mathrm {N} }\nu \ _{i}(\gamma \ )=const.""/></span> <br /> w.l.g. we can assume that constant to be zero. In a zero-sum game, one player's gain is another player's loss. Most classical board games (e.g. <a href=""/wiki/Chess"" title=""Chess"">chess</a>, <a href=""/wiki/Checkers"" class=""mw-redirect"" title=""Checkers"">checkers</a>) are <b>zero sum</b>.</dd></dl>

@@ -368,9 +368,9 @@ Simple game|"
 </p>
 "
 <dl><dt>Acceptable game&#160;</dt>|"
-<dd>is a <b>game form</b> such that for every possible <b>preference profiles</b>, the game has <b>pure nash equilibria</b>, all of which are <b>pareto efficient</b>.</dd>"
+<dd>Is a <b>game form</b> such that for every possible <b>preference profiles</b>, the game has <b>pure nash equilibria</b>, all of which are <b>pareto efficient</b>.</dd>"
 <dt>Allocation of goods&#160;</dt>|"
-<dd>is a function <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \nu \ :\Gamma \ \to \mathbb {R} ^{\mathrm {N} }}"">
+<dd>Is a function <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \nu \ :\Gamma \ \to \mathbb {R} ^{\mathrm {N} }}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
       <mstyle displaystyle=""true"" scriptlevel=""0"">
@@ -396,7 +396,7 @@ Simple game|"
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/48634ff3388ecc6648306dcc34d8649a29a1e13b"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:12.54ex; height:2.676ex;"" alt=""\nu \ :\Gamma \ \to \mathbb {R} ^{\mathrm {N} }""/></span>. The allocation is a <b>cardinal</b> approach for determining the good (e.g. money) the players are granted under the different outcomes of the game.</dd>"
 <dt>Best reply&#160;</dt>|"
-<dd>the best reply to a given complement  <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \sigma \ _{-i}}"">
+<dd>The best reply to a given complement  <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \sigma \ _{-i}}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
       <mstyle displaystyle=""true"" scriptlevel=""0"">
@@ -497,7 +497,7 @@ Simple game|"
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/76312d9439d1d5facc35b000f5900decfb826778"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:41.007ex; height:3.176ex;"" alt=""\forall \sigma \ _{i}\in \ \Sigma \ ^{i}\quad \quad \pi \ (\sigma \ _{i},\sigma \ _{-i})\leq \pi \ (\tau \ _{i},\sigma \ _{-i})""/></span>.</dd>"
 <dt>Coalition&#160;</dt>|"
-<dd>is any subset of the set of players: <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \mathrm {S} \subseteq \mathrm {N} }"">
+<dd>Is any subset of the set of players: <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \mathrm {S} \subseteq \mathrm {N} }"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
       <mstyle displaystyle=""true"" scriptlevel=""0"">
@@ -800,7 +800,7 @@ Simple game|"
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/57c234e53537b39cce522c2342a309c3c1a5c3ff"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:26.136ex; height:2.843ex;"" alt=""\exists i\in \mathrm {N} \;s.t.\;\nu \ _{i}(a)&lt;\nu \ _{i}(b)""/></span> for strict domination. <br /> An outcome <b>a</b> is (strictly) <b>dominated</b> if it is (strictly) <b>dominated</b> by some other <b>outcome</b>. <br /> An outcome <b>a</b> is dominated for a <b>coalition</b> <b>S</b> if all players in <b>S</b> prefer some other outcome to <b>a</b>. See also <b>Condorcet winner</b>.</dd>"
 <dt>Dominated strategy&#160;</dt>|"
-<dd>we say that strategy  is (strongly) dominated by strategy <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \tau \ _{i}}"">
+<dd>We say that strategy  is (strongly) dominated by strategy <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \tau \ _{i}}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
       <mstyle displaystyle=""true"" scriptlevel=""0"">
@@ -998,11 +998,11 @@ Simple game|"
 <dd>A coalition (or a single player) <b>S</b> is <i>effective for </i> <b>a</b> if it can force <b>a</b> to be the outcome of the game. <b>S</b> is α-effective if the members of <b>S</b> have strategies s.t. no matter what the complement of <b>S</b> does, the outcome will be <b>a</b>.</dd>
 <dd><b>S</b> is β-effective if for any strategies of the complement of <b>S</b>, the members of <b>S</b> can answer with strategies that ensure outcome <b>a</b>.</dd>"
 <dt>Finite game&#160;</dt>|"
-<dd>is a game with finitely many players, each of which has a finite set of <b>strategies</b>.</dd>"
+<dd>Is a game with finitely many players, each of which has a finite set of <b>strategies</b>.</dd>"
 <dt>Grand coalition&#160;</dt>|"
-<dd>refers to the coalition containing all players. In cooperative games it is often assumed that the grand coalition forms and the purpose of the game is to find stable imputations.</dd>"
+<dd>Refers to the coalition containing all players. In cooperative games it is often assumed that the grand coalition forms and the purpose of the game is to find stable imputations.</dd>"
 <dt>Mixed strategy&#160;</dt>|"
-<dd>for player <b>i</b> is a probability distribution <b>P</b> on <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \Sigma \ ^{i}}"">
+<dd>For player <b>i</b> is a probability distribution <b>P</b> on <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \Sigma \ ^{i}}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
       <mstyle displaystyle=""true"" scriptlevel=""0"">
@@ -1023,7 +1023,7 @@ Simple game|"
 <dt>Pareto efficiency&#160;</dt>|"
 <dd>An <b>outcome</b> <i>a</i> of <b>game form</b> <i>π</i> is (strongly) <b>pareto efficient</b> if it is <b>undominated</b> under all <b>preference profiles</b>.</dd>"
 <dt>Preference profile&#160;</dt>|"
-<dd>is a function <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \nu \ :\Gamma \ \to \mathbb {R} ^{\mathrm {N} }}"">
+<dd>Is a function <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \nu \ :\Gamma \ \to \mathbb {R} ^{\mathrm {N} }}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
       <mstyle displaystyle=""true"" scriptlevel=""0"">
@@ -1171,9 +1171,9 @@ Simple game|"
 <dd>A veto denotes the ability (or right) of some player to prevent a specific alternative from being the outcome of the game. A player who has that ability is called <b>a veto player</b>.</dd>
 <dd>Antonym: <i>Dummy</i>.</dd>"
 <dt>Weakly acceptable game&#160;</dt>|"
-<dd>is a game that has <b>pure nash equilibria</b> some of which are <b>pareto efficient</b>.</dd>"
+<dd>Is a game that has <b>pure nash equilibria</b> some of which are <b>pareto efficient</b>.</dd>"
 "<dt><a href=""https://en.wikipedia.org/wiki/Zero_sum"" class=""mw-redirect"" title=""Zero sum"">Zero sum</a> game&#160;</dt>"|"
-<dd>is a game in which the allocation is constant over different <b>outcomes</b>. Formally: <br /> <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \forall \gamma \ \in \Gamma \ \sum _{i\in \mathrm {N} }\nu \ _{i}(\gamma \ )=const.}"">
+<dd>Is a game in which the allocation is constant over different <b>outcomes</b>. Formally: <br /> <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \forall \gamma \ \in \Gamma \ \sum _{i\in \mathrm {N} }\nu \ _{i}(\gamma \ )=const.}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
       <mstyle displaystyle=""true"" scriptlevel=""0"">

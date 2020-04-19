@@ -200,7 +200,7 @@ an element of <span class=""mwe-math-element""><span class=""mwe-math-mathml-inl
     <annotation encoding=""application/x-tex"">{\displaystyle \mathbb {R} ^{\mathrm {N} }}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/76a72db7cd8b7a8df610d33602c1a0da2b1040c1"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:3.143ex; height:2.676ex;"" alt=""\mathbb {R} ^{\mathrm {N} }""/></span>, describing how much <a href=""https://en.wikipedia.org/wiki/Utility_function"" class=""mw-redirect"" title=""Utility function"">gain</a> (money, pleasure, etc.) the players are allocated by the end of the game.</dd></dl>"
-<h3><span class=""mw-headline"" id=""Normal_form_game"">Normal form game</span></h3>|"
+Normal form game|"
 <p>A game in normal form is a function:
 </p>
 <dl><dd><span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \pi \ :\prod _{i\in \mathrm {N} }\Sigma \ ^{i}\to \mathbb {R} ^{\mathrm {N} }}"">
@@ -306,10 +306,10 @@ an element of <span class=""mwe-math-element""><span class=""mwe-math-mathml-inl
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/48634ff3388ecc6648306dcc34d8649a29a1e13b"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:12.54ex; height:2.676ex;"" alt=""\nu \ :\Gamma \ \to \mathbb {R} ^{\mathrm {N} }""/></span></dd></dl>
 <p>the allocation of <b>payoffs</b> (or <b>preferences</b>) to players, for each outcome of the game.
 </p>"
-<h3><span class=""mw-headline"" id=""Extensive_form_game"">Extensive form game</span></h3>|"
+Extensive form game|"
 <p>This is given by a <a href=""https://en.wikipedia.org/wiki/Tree_(graph_theory)"" title=""Tree (graph theory)"">tree</a>, where at each <a href=""https://en.wikipedia.org/wiki/Vertex_(graph_theory)"" title=""Vertex (graph theory)"">vertex</a> of the <i>tree</i> a different player has the choice of choosing an <a href=""https://en.wikipedia.org/wiki/Graph_theory"" title=""Graph theory"">edge</a>. The <i>outcome</i> set of an extensive form game is usually the set of tree leaves.
 </p>"
-<h3><span class=""mw-headline"" id=""Cooperative_game"">Cooperative game</span></h3>|"
+Cooperative game|"
 <p>A game in which players are allowed to form coalitions (and to enforce coalitionary discipline). A cooperative game is given by stating a <i>value</i> for every coalition:
 </p>
 <dl><dd><span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \nu \ :2^{\mathbb {P} (N)}\to \mathbb {R} }"">
@@ -363,7 +363,7 @@ usually assume that the players are forming the <i>grand coalition</i> <span cla
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/26452dcd34904507713285dff47be9e0e5baeb94"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:5.105ex; height:2.843ex;"" alt=""\nu (N)""/></span> is then divided among the players to give an allocation.
 </p>"
-<h3><span class=""mw-headline"" id=""Simple_game"">Simple game</span></h3>|"
+Simple game|"
 <p>A Simple game is a simplified form of a cooperative game, where the possible gain is assumed to be either '0' or '1'. A simple game is couple (<b>N</b>, <b>W</b>), where <b>W</b> is the list of ""winning"" <b>coalitions</b>, capable of gaining the loot ('1'), and <b>N</b> is the set of players.
 </p>
 "

@@ -1,7 +1,7 @@
-<p><a href=""/wiki/Game_theory"" title=""Game theory"">Game theory</a> is the branch of <a href=""/wiki/Mathematics"" title=""Mathematics"">mathematics</a> in which <a href=""/wiki/Game_(mathematics)"" class=""mw-redirect"" title=""Game (mathematics)"">games</a> are studied: that is, models describing human behaviour. This is a glossary of some terms of the subject.
+<p><a href=""https://en.wikipedia.org/wiki/Game_theory"" title=""Game theory"">Game theory</a> is the branch of <a href=""https://en.wikipedia.org/wiki/Mathematics"" title=""Mathematics"">mathematics</a> in which <a href=""https://en.wikipedia.org/wiki/Game_(mathematics)"" class=""mw-redirect"" title=""Game (mathematics)"">games</a> are studied: that is, models describing human behaviour. This is a glossary of some terms of the subject.
 </p>
 
-<dl><dt><a href=""/wiki/Real_numbers"" class=""mw-redirect"" title=""Real numbers"">Real numbers</a>&#160;</dt>
+<dl><dt><a href=""https://en.wikipedia.org/wiki/Real_numbers"" class=""mw-redirect"" title=""Real numbers"">Real numbers</a>&#160;</dt>
 <dd><span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \mathbb {R} }"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -199,7 +199,7 @@ an element of <span class=""mwe-math-element""><span class=""mwe-math-mathml-inl
     </mrow>
     <annotation encoding=""application/x-tex"">{\displaystyle \mathbb {R} ^{\mathrm {N} }}</annotation>
   </semantics>
-</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/76a72db7cd8b7a8df610d33602c1a0da2b1040c1"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:3.143ex; height:2.676ex;"" alt=""\mathbb {R} ^{\mathrm {N} }""/></span>, describing how much <a href=""/wiki/Utility_function"" class=""mw-redirect"" title=""Utility function"">gain</a> (money, pleasure, etc.) the players are allocated by the end of the game.</dd></dl>
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/76a72db7cd8b7a8df610d33602c1a0da2b1040c1"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:3.143ex; height:2.676ex;"" alt=""\mathbb {R} ^{\mathrm {N} }""/></span>, describing how much <a href=""https://en.wikipedia.org/wiki/Utility_function"" class=""mw-redirect"" title=""Utility function"">gain</a> (money, pleasure, etc.) the players are allocated by the end of the game.</dd></dl>
 <h3><span class=""mw-headline"" id=""Normal_form_game"">Normal form game</span></h3>
 <p>A game in normal form is a function:
 </p>
@@ -307,7 +307,7 @@ an element of <span class=""mwe-math-element""><span class=""mwe-math-mathml-inl
 <p>the allocation of <b>payoffs</b> (or <b>preferences</b>) to players, for each outcome of the game.
 </p>
 <h3><span class=""mw-headline"" id=""Extensive_form_game"">Extensive form game</span></h3>
-<p>This is given by a <a href=""/wiki/Tree_(graph_theory)"" title=""Tree (graph theory)"">tree</a>, where at each <a href=""/wiki/Vertex_(graph_theory)"" title=""Vertex (graph theory)"">vertex</a> of the <i>tree</i> a different player has the choice of choosing an <a href=""/wiki/Graph_theory"" title=""Graph theory"">edge</a>. The <i>outcome</i> set of an extensive form game is usually the set of tree leaves.
+<p>This is given by a <a href=""https://en.wikipedia.org/wiki/Tree_(graph_theory)"" title=""Tree (graph theory)"">tree</a>, where at each <a href=""https://en.wikipedia.org/wiki/Vertex_(graph_theory)"" title=""Vertex (graph theory)"">vertex</a> of the <i>tree</i> a different player has the choice of choosing an <a href=""https://en.wikipedia.org/wiki/Graph_theory"" title=""Graph theory"">edge</a>. The <i>outcome</i> set of an extensive form game is usually the set of tree leaves.
 </p>
 <h3><span class=""mw-headline"" id=""Cooperative_game"">Cooperative game</span></h3>
 <p>A game in which players are allowed to form coalitions (and to enforce coalitionary discipline). A cooperative game is given by stating a <i>value</i> for every coalition:
@@ -515,12 +515,12 @@ usually assume that the players are forming the <i>grand coalition</i> <span cla
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/a86dbee4100e7d0a377658b9c308a90b2f2fd9d3"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.505ex; width:6.134ex; height:2.343ex;"" alt=""\mathrm {S} \subseteq \mathrm {N} ""/></span>.</dd></dl>
 <dl><dt>Condorcet winner&#160;</dt>
 <dd>Given a <b>preference</b> <i>ν</i> on the <b>outcome space</b>, an outcome <b>a</b> is a condorcet winner if all non-dummy players prefer <b>a</b> to all other outcomes.</dd></dl>
-<dl><dt><a href=""/wiki/Decidability_(logic)"" title=""Decidability (logic)"">Decidability</a>&#160;</dt>
+<dl><dt><a href=""https://en.wikipedia.org/wiki/Decidability_(logic)"" title=""Decidability (logic)"">Decidability</a>&#160;</dt>
 <dd>In relation to game theory, refers to the question of the existence of an algorithm that can and will return an answer as to whether a game can be solved or not.<sup id=""cite_ref-1"" class=""reference""><a href=""#cite_note-1"">&#91;1&#93;</a></sup></dd></dl>
-<dl><dt><a href=""/wiki/Determinacy"" title=""Determinacy"">Determinacy</a>&#160;</dt>
+<dl><dt><a href=""https://en.wikipedia.org/wiki/Determinacy"" title=""Determinacy"">Determinacy</a>&#160;</dt>
 <dd>A subfield of set theory that examines the conditions under which one or the other player of a game has a winning strategy, and the consequences of the existence of such strategies. Games studied in set theory are Gale–Stewart games – two-player games of perfect information in which the players make an infinite sequence of moves and there are no draws.</dd></dl>
-<dl><dt><a href=""/wiki/Strictly_determined_game"" title=""Strictly determined game"">Determined game</a> (or <b>Strictly determined game</b>)&#160;</dt>
-<dd>In game theory, a strictly determined game is a two-player <a href=""/wiki/Zero-sum"" class=""mw-redirect"" title=""Zero-sum"">zero-sum</a> game that has at least one <a href=""/wiki/Nash_equilibrium"" title=""Nash equilibrium"">Nash equilibrium</a> with both players using <a href=""/wiki/Pure_strategy"" class=""mw-redirect"" title=""Pure strategy"">pure strategies</a>.<sup id=""cite_ref-2"" class=""reference""><a href=""#cite_note-2"">&#91;2&#93;</a></sup><sup id=""cite_ref-3"" class=""reference""><a href=""#cite_note-3"">&#91;3&#93;</a></sup></dd></dl>
+<dl><dt><a href=""https://en.wikipedia.org/wiki/Strictly_determined_game"" title=""Strictly determined game"">Determined game</a> (or <b>Strictly determined game</b>)&#160;</dt>
+<dd>In game theory, a strictly determined game is a two-player <a href=""https://en.wikipedia.org/wiki/Zero-sum"" class=""mw-redirect"" title=""Zero-sum"">zero-sum</a> game that has at least one <a href=""https://en.wikipedia.org/wiki/Nash_equilibrium"" title=""Nash equilibrium"">Nash equilibrium</a> with both players using <a href=""https://en.wikipedia.org/wiki/Pure_strategy"" class=""mw-redirect"" title=""Pure strategy"">pure strategies</a>.<sup id=""cite_ref-2"" class=""reference""><a href=""#cite_note-2"">&#91;2&#93;</a></sup><sup id=""cite_ref-3"" class=""reference""><a href=""#cite_note-3"">&#91;3&#93;</a></sup></dd></dl>
 <dl><dt>Dictator</dt>
 <dd>A player is a <i>strong dictator</i> if he can guarantee any outcome regardless of the other players. <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle m\in \mathbb {N} }"">
   <semantics>
@@ -1161,9 +1161,9 @@ usually assume that the players are forming the <i>grand coalition</i> <span cla
 <dl><dt>Say&#160;</dt>
 <dd>A player <b>i</b> has a <b>Say</b> if he is not a <i>Dummy</i>, i.e. if there is some tuple of complement strategies s.t. π (σ_i) is not a constant function.</dd>
 <dd>Antonym: <i>Dummy</i>.</dd></dl>
-<dl><dt><a href=""/wiki/Shannon_number"" title=""Shannon number"">Shannon number</a>&#160;</dt>
-<dd>A conservative lower bound of the <a href=""/wiki/Game_complexity"" title=""Game complexity"">game-tree complexity</a> of <a href=""/wiki/Chess"" title=""Chess"">chess</a> (10<sup>120</sup>).</dd></dl>
-<dl><dt><a href=""/wiki/Solved_game"" title=""Solved game"">Solved game</a>&#160;</dt>
+<dl><dt><a href=""https://en.wikipedia.org/wiki/Shannon_number"" title=""Shannon number"">Shannon number</a>&#160;</dt>
+<dd>A conservative lower bound of the <a href=""https://en.wikipedia.org/wiki/Game_complexity"" title=""Game complexity"">game-tree complexity</a> of <a href=""https://en.wikipedia.org/wiki/Chess"" title=""Chess"">chess</a> (10<sup>120</sup>).</dd></dl>
+<dl><dt><a href=""https://en.wikipedia.org/wiki/Solved_game"" title=""Solved game"">Solved game</a>&#160;</dt>
 <dd>A game whose outcome (win, lose or draw) can be correctly predicted assuming perfect play from all players.</dd></dl>
 <dl><dt>Value&#160;</dt>
 <dd>A <b>value</b> of a game is a rationally expected <b>outcome</b>. There are more than a few definitions of <b>value</b>, describing different methods of obtaining a solution to the game.</dd></dl>
@@ -1172,7 +1172,7 @@ usually assume that the players are forming the <i>grand coalition</i> <span cla
 <dd>Antonym: <i>Dummy</i>.</dd></dl>
 <dl><dt>Weakly acceptable game&#160;</dt>
 <dd>is a game that has <b>pure nash equilibria</b> some of which are <b>pareto efficient</b>.</dd></dl>
-<dl><dt><a href=""/wiki/Zero_sum"" class=""mw-redirect"" title=""Zero sum"">Zero sum</a> game&#160;</dt>
+<dl><dt><a href=""https://en.wikipedia.org/wiki/Zero_sum"" class=""mw-redirect"" title=""Zero sum"">Zero sum</a> game&#160;</dt>
 <dd>is a game in which the allocation is constant over different <b>outcomes</b>. Formally: <br /> <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \forall \gamma \ \in \Gamma \ \sum _{i\in \mathrm {N} }\nu \ _{i}(\gamma \ )=const.}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -1215,4 +1215,4 @@ usually assume that the players are forming the <i>grand coalition</i> <span cla
     </mrow>
     <annotation encoding=""application/x-tex"">{\displaystyle \forall \gamma \ \in \Gamma \ \sum _{i\in \mathrm {N} }\nu \ _{i}(\gamma \ )=const.}</annotation>
   </semantics>
-</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/b47d6028f1da74483e23e28f2a30cee70b31c5be"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -3.171ex; width:27.608ex; height:5.676ex;"" alt=""\forall \gamma \ \in \Gamma \ \sum _{i\in \mathrm {N} }\nu \ _{i}(\gamma \ )=const.""/></span> <br /> w.l.g. we can assume that constant to be zero. In a zero-sum game, one player's gain is another player's loss. Most classical board games (e.g. <a href=""/wiki/Chess"" title=""Chess"">chess</a>, <a href=""/wiki/Checkers"" class=""mw-redirect"" title=""Checkers"">checkers</a>) are <b>zero sum</b>.</dd></dl>
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/b47d6028f1da74483e23e28f2a30cee70b31c5be"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -3.171ex; width:27.608ex; height:5.676ex;"" alt=""\forall \gamma \ \in \Gamma \ \sum _{i\in \mathrm {N} }\nu \ _{i}(\gamma \ )=const.""/></span> <br /> w.l.g. we can assume that constant to be zero. In a zero-sum game, one player's gain is another player's loss. Most classical board games (e.g. <a href=""https://en.wikipedia.org/wiki/Chess"" title=""Chess"">chess</a>, <a href=""https://en.wikipedia.org/wiki/Checkers"" class=""mw-redirect"" title=""Checkers"">checkers</a>) are <b>zero sum</b>.</dd></dl>

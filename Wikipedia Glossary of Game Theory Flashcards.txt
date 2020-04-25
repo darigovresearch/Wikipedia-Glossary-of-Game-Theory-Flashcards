@@ -15,7 +15,7 @@ Introduction (Wikipedia Glossary of Game Theory)|"
 Game Theory (Wikipedia Glossary of Game Theory)|"<p><a href=""https://en.wikipedia.org/wiki/Game_theory"" title=""Game theory"">Game theory</a> is the branch of <a href=""https://en.wikipedia.org/wiki/Mathematics"" title=""Mathematics"">mathematics</a> in which <a href=""https://en.wikipedia.org/wiki/Game_(mathematics)"" class=""mw-redirect"" title=""Game (mathematics)"">games</a> are studied: that is, models describing human behaviour. This is a glossary of some terms of the subject.
 </p>
 "
-"<a href=""https://en.wikipedia.org/wiki/Real_numbers"" class=""mw-redirect"" title=""Real numbers"">Real numbers</a>&#160;" (Wikipedia Glossary of Game Theory)|"
+"<a href=""https://en.wikipedia.org/wiki/Real_numbers"" class=""mw-redirect"" title=""Real numbers"">Real numbers</a>" (Wikipedia Glossary of Game Theory)|"
 <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \mathbb {R} }"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -28,7 +28,7 @@ Game Theory (Wikipedia Glossary of Game Theory)|"<p><a href=""https://en.wikiped
     <annotation encoding=""application/x-tex"">{\displaystyle \mathbb {R} }</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/786849c765da7a84dbc3cce43e96aad58a5868dc"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:1.678ex; height:2.176ex;"" alt=""\mathbb {R} ""/></span>."
-The set of <b>players</b>&#160; (Wikipedia Glossary of Game Theory)|"
+The set of <b>players</b> (Wikipedia Glossary of Game Theory)|"
 <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \mathrm {N} }"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -41,7 +41,7 @@ The set of <b>players</b>&#160; (Wikipedia Glossary of Game Theory)|"
     <annotation encoding=""application/x-tex"">{\displaystyle \mathrm {N} }</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/a91302c621d1e18627cb635f8bd86852ab4b800b"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:1.743ex; height:2.176ex;"" alt=""\mathrm {N} ""/></span>."
-Strategy space&#160; (Wikipedia Glossary of Game Theory)|"
+Strategy space (Wikipedia Glossary of Game Theory)|"
 <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \Sigma \ =\prod _{i\in \mathrm {N} }\Sigma \ ^{i}}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -71,7 +71,7 @@ Strategy space&#160; (Wikipedia Glossary of Game Theory)|"
     <annotation encoding=""application/x-tex"">{\displaystyle \Sigma \ =\prod _{i\in \mathrm {N} }\Sigma \ ^{i}}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/d09a811fbd81310abc6f9b70607f26614ef570ae"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -3.171ex; width:11.772ex; height:5.676ex;"" alt=""\Sigma \ =\prod _{i\in \mathrm {N} }\Sigma \ ^{i}""/></span>, where"
-Player i's strategy space&#160; (Wikipedia Glossary of Game Theory)|"
+Player i's strategy space (Wikipedia Glossary of Game Theory)|"
 <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \Sigma \ ^{i}}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -88,7 +88,7 @@ Player i's strategy space&#160; (Wikipedia Glossary of Game Theory)|"
     <annotation encoding=""application/x-tex"">{\displaystyle \Sigma \ ^{i}}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/fd448fa582bd3321fde15a3e9263a158bc126451"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:3.058ex; height:2.676ex;"" alt=""\Sigma \ ^{i}""/></span> is the space of all possible ways in which player <b>i</b> can play the game."
-A strategy  for player <b>i</b>&#160; (Wikipedia Glossary of Game Theory)|"
+A strategy  for player <b>i</b> (Wikipedia Glossary of Game Theory)|"
 <p><span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \sigma \ _{i}}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -123,7 +123,7 @@ is an element of
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/fd448fa582bd3321fde15a3e9263a158bc126451"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:3.058ex; height:2.676ex;"" alt=""\Sigma \ ^{i}""/></span>.
 </p>"
-Complements&#160; (Wikipedia Glossary of Game Theory)|"
+Complements (Wikipedia Glossary of Game Theory)|"
 <p><span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \sigma \ _{-i}}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -181,7 +181,7 @@ an element of <span class=""mwe-math-element""><span class=""mwe-math-mathml-inl
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/41213a083c99098a1f1196ed3cd856bf7058d777"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -3.505ex; width:16.978ex; height:6.009ex;"" alt=""\Sigma \ ^{-i}=\prod _{j\in \mathrm {N} ,j\neq i}\Sigma \ ^{j}""/></span>, is a tuple of strategies for all players other than <b>i</b>.
 </p>"
-Outcome space&#160; (Wikipedia Glossary of Game Theory)|"
+Outcome space (Wikipedia Glossary of Game Theory)|"
 <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \Gamma }"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -192,7 +192,7 @@ Outcome space&#160; (Wikipedia Glossary of Game Theory)|"
     <annotation encoding=""application/x-tex"">{\displaystyle \Gamma }</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/4cfde86a3f7ec967af9955d0988592f0693d2b19"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:1.453ex; height:2.176ex;"" alt=""\Gamma ""/></span> is in most textbooks identical to -"
-Payoffs&#160; (Wikipedia Glossary of Game Theory)|"
+Payoffs (Wikipedia Glossary of Game Theory)|"
 <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \mathbb {R} ^{\mathrm {N} }}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -379,9 +379,9 @@ Simple game (Wikipedia Glossary of Game Theory)|"
 <p>A Simple game is a simplified form of a cooperative game, where the possible gain is assumed to be either '0' or '1'. A simple game is couple (<b>N</b>, <b>W</b>), where <b>W</b> is the list of ""winning"" <b>coalitions</b>, capable of gaining the loot ('1'), and <b>N</b> is the set of players.
 </p>
 "
-Acceptable game&#160; (Wikipedia Glossary of Game Theory)|"
+Acceptable game (Wikipedia Glossary of Game Theory)|"
 Is a <b>game form</b> such that for every possible <b>preference profiles</b>, the game has <b>pure nash equilibria</b>, all of which are <b>pareto efficient</b>."
-Allocation of goods&#160; (Wikipedia Glossary of Game Theory)|"
+Allocation of goods (Wikipedia Glossary of Game Theory)|"
 Is a function <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \nu \ :\Gamma \ \to \mathbb {R} ^{\mathrm {N} }}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -407,7 +407,7 @@ Is a function <span class=""mwe-math-element""><span class=""mwe-math-mathml-inl
     <annotation encoding=""application/x-tex"">{\displaystyle \nu \ :\Gamma \ \to \mathbb {R} ^{\mathrm {N} }}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/48634ff3388ecc6648306dcc34d8649a29a1e13b"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:12.54ex; height:2.676ex;"" alt=""\nu \ :\Gamma \ \to \mathbb {R} ^{\mathrm {N} }""/></span>. The allocation is a <b>cardinal</b> approach for determining the good (e.g. money) the players are granted under the different outcomes of the game."
-Best reply&#160; (Wikipedia Glossary of Game Theory)|"
+Best reply (Wikipedia Glossary of Game Theory)|"
 The best reply to a given complement  <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \sigma \ _{-i}}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -508,7 +508,7 @@ The best reply to a given complement  <span class=""mwe-math-element""><span cla
     <annotation encoding=""application/x-tex"">{\displaystyle \forall \sigma \ _{i}\in \ \Sigma \ ^{i}\quad \quad \pi \ (\sigma \ _{i},\sigma \ _{-i})\leq \pi \ (\tau \ _{i},\sigma \ _{-i})}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/76312d9439d1d5facc35b000f5900decfb826778"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:41.007ex; height:3.176ex;"" alt=""\forall \sigma \ _{i}\in \ \Sigma \ ^{i}\quad \quad \pi \ (\sigma \ _{i},\sigma \ _{-i})\leq \pi \ (\tau \ _{i},\sigma \ _{-i})""/></span>."
-Coalition&#160; (Wikipedia Glossary of Game Theory)|"
+Coalition (Wikipedia Glossary of Game Theory)|"
 Is any subset of the set of players: <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \mathrm {S} \subseteq \mathrm {N} }"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -525,13 +525,13 @@ Is any subset of the set of players: <span class=""mwe-math-element""><span clas
     <annotation encoding=""application/x-tex"">{\displaystyle \mathrm {S} \subseteq \mathrm {N} }</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/a86dbee4100e7d0a377658b9c308a90b2f2fd9d3"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.505ex; width:6.134ex; height:2.343ex;"" alt=""\mathrm {S} \subseteq \mathrm {N} ""/></span>."
-Condorcet winner&#160; (Wikipedia Glossary of Game Theory)|"
+Condorcet winner (Wikipedia Glossary of Game Theory)|"
 Given a <b>preference</b> <i>ν</i> on the <b>outcome space</b>, an outcome <b>a</b> is a condorcet winner if all non-dummy players prefer <b>a</b> to all other outcomes."
-"<a href=""https://en.wikipedia.org/wiki/Decidability_(logic)"" title=""Decidability (logic)"">Decidability</a>&#160;" (Wikipedia Glossary of Game Theory)|"
+"<a href=""https://en.wikipedia.org/wiki/Decidability_(logic)"" title=""Decidability (logic)"">Decidability</a>" (Wikipedia Glossary of Game Theory)|"
 In relation to game theory, refers to the question of the existence of an algorithm that can and will return an answer as to whether a game can be solved or not.<sup id=""cite_ref-1"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_game_theory#cite_note-1"">&#91;1&#93;</a></sup>"
-"<a href=""https://en.wikipedia.org/wiki/Determinacy"" title=""Determinacy"">Determinacy</a>&#160;" (Wikipedia Glossary of Game Theory)|"
+"<a href=""https://en.wikipedia.org/wiki/Determinacy"" title=""Determinacy"">Determinacy</a>" (Wikipedia Glossary of Game Theory)|"
 A subfield of set theory that examines the conditions under which one or the other player of a game has a winning strategy, and the consequences of the existence of such strategies. Games studied in set theory are Gale–Stewart games – two-player games of perfect information in which the players make an infinite sequence of moves and there are no draws."
-"<a href=""https://en.wikipedia.org/wiki/Strictly_determined_game"" title=""Strictly determined game"">Determined game</a> (or <b>Strictly determined game</b>)&#160;" (Wikipedia Glossary of Game Theory)|"
+"<a href=""https://en.wikipedia.org/wiki/Strictly_determined_game"" title=""Strictly determined game"">Determined game</a> (or <b>Strictly determined game</b>)" (Wikipedia Glossary of Game Theory)|"
 In game theory, a strictly determined game is a two-player <a href=""https://en.wikipedia.org/wiki/Zero-sum"" class=""mw-redirect"" title=""Zero-sum"">zero-sum</a> game that has at least one <a href=""https://en.wikipedia.org/wiki/Nash_equilibrium"" title=""Nash equilibrium"">Nash equilibrium</a> with both players using <a href=""https://en.wikipedia.org/wiki/Pure_strategy"" class=""mw-redirect"" title=""Pure strategy"">pure strategies</a>.<sup id=""cite_ref-2"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_game_theory#cite_note-2"">&#91;2&#93;</a></sup><sup id=""cite_ref-3"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_game_theory#cite_note-3"">&#91;3&#93;</a></sup>"
 Dictator (Wikipedia Glossary of Game Theory)|"
 A player is a <i>strong dictator</i> if he can guarantee any outcome regardless of the other players. <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle m\in \mathbb {N} }"">
@@ -730,7 +730,7 @@ Another way to put it is:
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/7ed48a5e36207156fb792fa79d29925d2f7901e8"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:1.332ex; height:2.509ex;"" alt=""\beta ""/></span>-effective for every possible outcome.</dd>
 <dd>A game can have no more than one <i>strong dictator</i>. Some games have multiple <i>weak dictators</i> (in <i>rock-paper-scissors</i> both players are <i>weak dictators</i> but none is a <i>strong dictator</i>).</dd></dl>
 Also see <i>Effectiveness</i>. Antonym: <i>dummy</i>."
-Dominated outcome&#160; (Wikipedia Glossary of Game Theory)|"
+Dominated outcome (Wikipedia Glossary of Game Theory)|"
 Given a <b>preference</b> <i>ν</i> on the <b>outcome space</b>, we say that an outcome <b>a</b> is dominated by outcome <b>b</b> (hence, <b>b</b> is the <i>dominant</i> strategy) if it is preferred by all players.  If, in addition, some player strictly prefers <b>b</b> over <b>a</b>, then we say that <b>a</b> is <b>strictly dominated</b>. Formally: <br /> <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \forall j\in \mathrm {N} \;\quad \nu \ _{j}(a)\leq \ \nu \ _{j}(b)}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -811,7 +811,7 @@ Given a <b>preference</b> <i>ν</i> on the <b>outcome space</b>, we say that an 
     <annotation encoding=""application/x-tex"">{\displaystyle \exists i\in \mathrm {N} \;s.t.\;\nu \ _{i}(a)&lt;\nu \ _{i}(b)}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/57c234e53537b39cce522c2342a309c3c1a5c3ff"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:26.136ex; height:2.843ex;"" alt=""\exists i\in \mathrm {N} \;s.t.\;\nu \ _{i}(a)&lt;\nu \ _{i}(b)""/></span> for strict domination. <br /> An outcome <b>a</b> is (strictly) <b>dominated</b> if it is (strictly) <b>dominated</b> by some other <b>outcome</b>. <br /> An outcome <b>a</b> is dominated for a <b>coalition</b> <b>S</b> if all players in <b>S</b> prefer some other outcome to <b>a</b>. See also <b>Condorcet winner</b>."
-Dominated strategy&#160; (Wikipedia Glossary of Game Theory)|"
+Dominated strategy (Wikipedia Glossary of Game Theory)|"
 We say that strategy  is (strongly) dominated by strategy <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \tau \ _{i}}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -1003,17 +1003,17 @@ We say that strategy  is (strongly) dominated by strategy <span class=""mwe-math
     <annotation encoding=""application/x-tex"">{\displaystyle \exists \sigma \ _{-i}\in \ \Sigma \ ^{-i}\quad s.t.\quad \pi \ (\sigma \ _{i},\sigma \ _{-i})&lt;\pi \ (\tau \ _{i},\sigma \ _{-i})}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/81684feff04ca509dbb33358ce61a3d4dd273320"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:47.562ex; height:3.176ex;"" alt=""\exists \sigma \ _{-i}\in \ \Sigma \ ^{-i}\quad s.t.\quad \pi \ (\sigma \ _{i},\sigma \ _{-i})&lt;\pi \ (\tau \ _{i},\sigma \ _{-i})""/></span>. <br /> A strategy <b>σ</b> is (strictly) <b>dominated</b> if it is (strictly) <b>dominated</b> by some other <b>strategy</b>."
-Dummy&#160; (Wikipedia Glossary of Game Theory)|"
+Dummy (Wikipedia Glossary of Game Theory)|"
 A player <b>i</b> is a dummy if he has no effect on the outcome of the game. I.e. if the outcome of the game is insensitive to player <b>i'</b>s strategy.
 Antonyms: <i>say</i>, <i>veto</i>, <i>dictator</i>."
-Effectiveness&#160; (Wikipedia Glossary of Game Theory)|"
+Effectiveness (Wikipedia Glossary of Game Theory)|"
 A coalition (or a single player) <b>S</b> is <i>effective for </i> <b>a</b> if it can force <b>a</b> to be the outcome of the game. <b>S</b> is α-effective if the members of <b>S</b> have strategies s.t. no matter what the complement of <b>S</b> does, the outcome will be <b>a</b>.
 <b>S</b> is β-effective if for any strategies of the complement of <b>S</b>, the members of <b>S</b> can answer with strategies that ensure outcome <b>a</b>."
-Finite game&#160; (Wikipedia Glossary of Game Theory)|"
+Finite game (Wikipedia Glossary of Game Theory)|"
 Is a game with finitely many players, each of which has a finite set of <b>strategies</b>."
-Grand coalition&#160; (Wikipedia Glossary of Game Theory)|"
+Grand coalition (Wikipedia Glossary of Game Theory)|"
 Refers to the coalition containing all players. In cooperative games it is often assumed that the grand coalition forms and the purpose of the game is to find stable imputations."
-Mixed strategy&#160; (Wikipedia Glossary of Game Theory)|"
+Mixed strategy (Wikipedia Glossary of Game Theory)|"
 For player <b>i</b> is a probability distribution <b>P</b> on <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \Sigma \ ^{i}}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -1030,11 +1030,11 @@ For player <b>i</b> is a probability distribution <b>P</b> on <span class=""mwe-
     <annotation encoding=""application/x-tex"">{\displaystyle \Sigma \ ^{i}}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/fd448fa582bd3321fde15a3e9263a158bc126451"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:3.058ex; height:2.676ex;"" alt=""\Sigma \ ^{i}""/></span>. It is understood that player <b>i</b> chooses a strategy randomly according to <b>P</b>."
-Mixed Nash Equilibrium&#160; (Wikipedia Glossary of Game Theory)|"
+Mixed Nash Equilibrium (Wikipedia Glossary of Game Theory)|"
 Same as <b>Pure Nash Equilibrium</b>, defined on the space of <b>mixed strategies</b>. Every finite game has <b>Mixed Nash Equilibria</b>."
-Pareto efficiency&#160; (Wikipedia Glossary of Game Theory)|"
+Pareto efficiency (Wikipedia Glossary of Game Theory)|"
 An <b>outcome</b> <i>a</i> of <b>game form</b> <i>π</i> is (strongly) <b>pareto efficient</b> if it is <b>undominated</b> under all <b>preference profiles</b>."
-Preference profile&#160; (Wikipedia Glossary of Game Theory)|"
+Preference profile (Wikipedia Glossary of Game Theory)|"
 Is a function <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \nu \ :\Gamma \ \to \mathbb {R} ^{\mathrm {N} }}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -1060,7 +1060,7 @@ Is a function <span class=""mwe-math-element""><span class=""mwe-math-mathml-inl
     <annotation encoding=""application/x-tex"">{\displaystyle \nu \ :\Gamma \ \to \mathbb {R} ^{\mathrm {N} }}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/48634ff3388ecc6648306dcc34d8649a29a1e13b"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:12.54ex; height:2.676ex;"" alt=""\nu \ :\Gamma \ \to \mathbb {R} ^{\mathrm {N} }""/></span>. This is the <b>ordinal</b> approach at describing the outcome of the game. The preference describes how 'pleased' the players are with the possible outcomes of the game. See <b>allocation of goods</b>."
-Pure Nash Equilibrium&#160; (Wikipedia Glossary of Game Theory)|"
+Pure Nash Equilibrium (Wikipedia Glossary of Game Theory)|"
 An element <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \sigma \ =(\sigma \ _{i})_{i\in \mathrm {N} }}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -1170,21 +1170,21 @@ An element <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline
     <annotation encoding=""application/x-tex"">{\displaystyle \forall i\in \mathrm {N} \quad \forall \tau \ _{i}\in \ \Sigma \ ^{i}\quad \pi \ (\tau \ ,\sigma \ _{-i})\leq \pi \ (\sigma \ )}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/5c574d6a240a1afe601a816fbf8b90d2174abe25"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:40.936ex; height:3.176ex;"" alt=""\forall i\in \mathrm {N} \quad \forall \tau \ _{i}\in \ \Sigma \ ^{i}\quad \pi \ (\tau \ ,\sigma \ _{-i})\leq \pi \ (\sigma \ )""/></span>. <br /> No equilibrium point is dominated."
-Say&#160; (Wikipedia Glossary of Game Theory)|"
+Say (Wikipedia Glossary of Game Theory)|"
 A player <b>i</b> has a <b>Say</b> if he is not a <i>Dummy</i>, i.e. if there is some tuple of complement strategies s.t. π (σ_i) is not a constant function.
 Antonym: <i>Dummy</i>."
-"<a href=""https://en.wikipedia.org/wiki/Shannon_number"" title=""Shannon number"">Shannon number</a>&#160;" (Wikipedia Glossary of Game Theory)|"
+"<a href=""https://en.wikipedia.org/wiki/Shannon_number"" title=""Shannon number"">Shannon number</a>" (Wikipedia Glossary of Game Theory)|"
 A conservative lower bound of the <a href=""https://en.wikipedia.org/wiki/Game_complexity"" title=""Game complexity"">game-tree complexity</a> of <a href=""https://en.wikipedia.org/wiki/Chess"" title=""Chess"">chess</a> (10<sup>120</sup>)."
-"<a href=""https://en.wikipedia.org/wiki/Solved_game"" title=""Solved game"">Solved game</a>&#160;" (Wikipedia Glossary of Game Theory)|"
+"<a href=""https://en.wikipedia.org/wiki/Solved_game"" title=""Solved game"">Solved game</a>" (Wikipedia Glossary of Game Theory)|"
 A game whose outcome (win, lose or draw) can be correctly predicted assuming perfect play from all players."
-Value&#160; (Wikipedia Glossary of Game Theory)|"
+Value (Wikipedia Glossary of Game Theory)|"
 A <b>value</b> of a game is a rationally expected <b>outcome</b>. There are more than a few definitions of <b>value</b>, describing different methods of obtaining a solution to the game."
-Veto&#160; (Wikipedia Glossary of Game Theory)|"
+Veto (Wikipedia Glossary of Game Theory)|"
 A veto denotes the ability (or right) of some player to prevent a specific alternative from being the outcome of the game. A player who has that ability is called <b>a veto player</b>.
 Antonym: <i>Dummy</i>."
-Weakly acceptable game&#160; (Wikipedia Glossary of Game Theory)|"
+Weakly acceptable game (Wikipedia Glossary of Game Theory)|"
 Is a game that has <b>pure nash equilibria</b> some of which are <b>pareto efficient</b>."
-"<a href=""https://en.wikipedia.org/wiki/Zero_sum"" class=""mw-redirect"" title=""Zero sum"">Zero sum</a> game&#160;" (Wikipedia Glossary of Game Theory)|"
+"<a href=""https://en.wikipedia.org/wiki/Zero_sum"" class=""mw-redirect"" title=""Zero sum"">Zero sum</a> game" (Wikipedia Glossary of Game Theory)|"
 Is a game in which the allocation is constant over different <b>outcomes</b>. Formally: <br /> <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \forall \gamma \ \in \Gamma \ \sum _{i\in \mathrm {N} }\nu \ _{i}(\gamma \ )=const.}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
